@@ -1,9 +1,10 @@
-* 3rd of June, 2019
+* Last Revised: 3rd of June, 2019
 
 ** Collaborate with other clubs
 Priority: Low
 *** Examples
 **** Chess Club
+**** Mario Party Wars
 
 ** Long Term Games/Stats
 Priority: Low
