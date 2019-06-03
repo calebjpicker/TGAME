@@ -6,6 +6,7 @@ Priority: Low
 **** Chess Club
 
 ** Long Term Games/Stats
+Priority: Low
 *** Leader Boards
 These would get based on a standard normal curve.
 Would require a program.
