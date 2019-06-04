@@ -1,10 +1,8 @@
 #+TITLE: Constitution of "Tabletop Organization for Data Analysis"
 #+SUBTITLE: University of Nevada, Las Vegas
-#+AUTHOR: 
-#+DATE: Revised 
-#+CLASS: report
-
-Preamble: We will use tabletop gaming to promote scientific literacy and data analytical skills. 
+#+OPTIONS: author:nil date:nil toc:t
+** Preamble
+We will use tabletop gaming to promote scientific literacy and data analytical skills. 
 This organization hopes to create a community around tabletop games and data analysis that crosses disciplines. 
 We hope to encourage intellectual diversity among members and for members to engage in their own inter-member projects. 
 We hope to organize and support members at all levels of understanding. 
@@ -13,39 +11,333 @@ For these reasons, we create the Tabletop Organization for Data Analysis.
 * Article I - Name 
   
   This organization shall have the name “Tabletop Organization for Data Analysis”, herein referred to as “TODA”.
-  
 * Article II - Purpose
   
   TODA will serve the following purposes:
+  
     A) To encourage interdisciplinary research projects and networking;
+    
     B) To encourage science literacy through data analysis;
+    
     C) To use tabletop games as a familiar subject across disciplines in order to apply data analysis;
+    
     D) To provide people with supplementary data analysis experience for resumes and applications.
   
 * Article III - Authority
+  
 ** Section I - Registered Student Organization
+   
    TODA holds recognition as a Registered Student Organization of the University of Nevada, Las Vegas (RSO) and adheres to the policies as set forth by the /UNLV Student Conduct Code/, /UNLV Student Engagement and Diversity Policies and Procedures/, and /UNLV Registered Student Organization Handbook/.
+   
 ** Section II - Bylaws
+   
    This organization shall establish bylaws to govern administrative and procedural matters (such as time and location of meetings, etc.). 
    Bylaws shall not conflict with this constitution. 
    Bylaws may get adopted, amended, or temporarily suspended by a majority vote present at a TODA meeting where a quorum exists (advance notice is not required).
-* Article IV
-** Section I - Membership 
+   
+* Article IV - Membership, Officers, and Organization
+  
+** Section I - Membership
+   
 *** Subsection I - Qualification
+    
 **** Anti-discrimination Clause
+     
      All current students, faculty, and staff of the University of Nevada, Las Vegas (UNLV) as well as members of the community outside UNLV may obtain membership status, regardless of age, creed, race, color, sex, sexual orientation, gender identity, political affiliation, socioeconomic status, disability, national origin, or status as a veteran.
+     
 **** Members 
+     
      The Bylaws shall define the membership requirements.
+     
 **** Membership Population
+     
      No less than ⅔ of TODA’s membership shall consist of UNLV students, faculty, or staff. 
      Non-UNLV membership slots will be considered as outline in the TODA Bylaws. 
+    
 *** Subsection II - Privileges and Responsibilities
+    
 **** Privileges
-     
+    
+***** Definition of Privilege 
+      
+      Benefits afforded by TODA to TODA active members.
+      
 **** Responsibilities
-* Article V
+     
+***** Definition of Responsibility 
+      
+      Expectations and Duties that TODA Members have toward other TODA members, TODA, community members, and the community.
+      
+***** Responsibilities 
+      
+      All TODA members and any person who is part of or related to TODA have responsibilities toward TODA members, TODA, community members, and the community. 
+      TODA responsibilities are outlined in the TODA Bylaws.
+      
+*** Subsection III - Code of Conduct
+    
+    All members, non-members, or otherwise representing TODA in any capacity anymust abide by the Code of Conduct
+    
+*** Subsection IV - Disciplinary Actions
+    
+    All members, non-members, or otherwise representing TODA will be recommended for and be subject to Disciplinary Action as outlined in the Bylaws.
+     
+** Section II - Officers
+   
+  
+*** Subsection I - General Qualifications for Positions 
+    
+    The absolute minimum of officer will equal 5. 
+    As the group grows, the minimum officers will grow proportionally. 
+    For membership up to the size of 100, this proportion will be at least 10%. 
+    After 100, this proportion will equal 5% plus 5 positions. 
+    People in primary officer positions must have active status and UNLV student status. 
+    Candidates must also have at least 1 semester in TODA or have founded the club.
+
+*** Subsection II - Positions
+   
+**** Primary Officer Positions 
+     
+     Primary officer positions have elected position status. 
+     Primary officer positions will have the chair registered with UNLV’s OED. 
+     All primary officer chairs must follow the election procedure elections to have the chair filled. 
+     The privileges and responsibilities of primary officers have description in the TODA bylaws.
+     
+**** Secondary Officer Positions 
+     
+     Secondary officer positions have appointed or elected status, with the exception of the Past President position. 
+     Secondary officer positions will register with UNLV’s OED. 
+     A primary officer may appoint someone to a secondary officer chair, or the primary officers may open any secondary officer chairs to the election process. 
+     The TODA bylaws will describe privileges and responsibilities of secondary officers.
+    
+**** Honorary Officer Positions 
+    
+     TODA shall have a President, Membership Vice President, Public Relations Vice President, Secretary, Treasurer, Director of Marketing, and Sergeant at Arms as the seven primary officer positions. 
+     TODA shall also have a Past President if a new President gets elected, a Historian, a Publicist of Newsletters, and a Publicist of Peer-Review, as standing secondary officer positions. 
+     The roles of these officers have descriptions in the bylaws. 
+     The bylaws may dictate which positions may combine so one person may fulfill multiple positions.
+     
+**** Default Positions 
+     
+     TODA shall have a President, Membership Vice President, Public Relations Vice President, Secretary, Treasurer, Director of Marketing, and Sergeant at Arms as the seven primary officer positions. 
+     TODA shall also have a Past President if a new President gets elected, a Historian, a Publicist of Newsletters, and a Publicist of Peer-Review, as standing secondary officer positions. 
+     The roles of these officers have descriptions in the bylaws. 
+     The bylaws may dictate which positions may combine so one person may fulfill multiple positions.
+     
+*** Subsection III - Elections and Appointments
+    
+**** Nominations 
+     
+***** UUID 
+      
+      [All Members will be assigned a Universal Unique IDs. → move this to BYLAWS.]  Universal Unique IDs will be required to make any and all nominations.
+     
+***** Procedure 
+      
+      A member may get nominated to an elected chair if and only if another member nominated this member and another person seconds.
+      
+**** Voting Method 
+     
+     Primary positions will get elected by a range vote election. 
+     Every active member will have a ballot with a numerical score range for each candidate and a “No Opinion” option. 
+     The average score of each candidate will get taken. 
+     When a ballot has “No Opinion” for a candidate, that ballot will not count in the averaging of that candidate’s score. 
+     The candidate with the highest average will win. 
+     No officer shall win an election, without more than 50% of the total range 
+     (e.g., total range of the anchor points of the scale used in the voting election. For example, if the scale ranged from 1-10, then, to win an election, the nominee must get more than 5.0 in average ratings), 
+     and no office shall win an election without receiving a score from more than 11% of the active club membership.
+
+**** Election Day
+     
+     The exact election day will be decided by an established quorum of Officers. 
+     The election day will be decided by days given the most approvals.
+    
+***** Quorum. 
+      
+      Election day meetings must have quorum in order for ballots to get tallied. The Bylaws will specify the Quorum requirements.
+      
+**** New and Appointed Positions 
+     
+*** Subsection IV - Terms of Office
+   
+*** Subsection V - Powers Granted 
+   
+**** President 
+     
+**** Vice Presidents 
+     
+**** Secretary
+     
+**** Treasurer 
+
+** Section III - Organization
+  
+*** Subsection I - Standing Committees 
+    
+    TODA shall have an executive, legislative, conduct, information, and marketing committee as standing committees. 
+    These and more standing committees hold their description in the bylaws.
+    
+*** Subsection II - Select Committees 
+    
+    TODA's officer board shall have the authority to establish select committees to address temporary needs.
+    The officer board may solidify a select committee into a standing committee in a procedure outlined by the bylaws.
+    Further descriptions of these committees hold their description in the bylaws.
+
+* Article V - Meetings
+  
 ** Section I - TODA General Meetings
+   
+*** Subsection I - Spatial Structure 
+    
+    TODA meetings shall have three (3) designated areas: 
+    a gaming area, a social and refreshments area, and an officer meeting area. 
+    The gaming area is the area where members shall play games. 
+    The social and refreshments area is the area where members are not playing games but shall socialize and grab refreshments.
+    
+*** Subsection II - Temporal Structure 
+
+**** Introduction and Announcements
+     TODA meeting shall have time at the beginning of each meeting dedicated to introductions. 
+     TODA meetings may also have time dedicated to announcements.
+     
+**** Game Time 
+   
+     TODA meetings shall have at least one designated gametime period where members shall play games. 
+     There shall be a designated start time and end time, both of which shall be recorded by an officer for data collection. 
+     Members or officers shall collect additional data related to gameplay.
+     
+**** Social Time and Area 
+     
+     TODA meetings shall have a designated area for socializing while game time occurs.
+     
+**** Presentations 
+     
+     TODA meetings shall have a designated presentation period.
+     
+    
+**** Election Days 
+     
+     TODA shall have one official election day. 
+     Election days shall be decided by the officers during an Officer meeting prior to the previous year’s end. 
+     Officers shall decided additional election days as needed.
+    
 ** Section II - TODA Officer Meetings 
-* Article VI
-** Section I 
-** Section II 
+  
+*** Subsection I - Chairperson
+  
+    For all Officer meetings, the default chairperson shall be the President. 
+    In the event that the President cannot fulfill the duties of chairperson, another Officer will act as chairperson. 
+    The TODA Bylaws describe the procedure for deciding the Officer that will act as Chairperson.
+    
+*** Subsection II - Standing Orders 
+    
+    The TODA bylaws shall describe the standing orders for officer meetings. 
+    Meetings will follow standing orders, unless a point of order is called to suspend standing orders.
+   
+*** Subsection III - Agenda 
+    
+    Prior to each meeting, the chairperson shall put items on the agenda and then give a finalized agenda to the Secretary. 
+    The Secretary shall post the finalized agenda two days prior to the meeting.
+    
+*** Subsection IV - Opening and Quorum
+   
+    The meeting will not begin until the Chairperson declares a quorum. 
+    A quorum will require at least ⅗ of the registered Officers. 
+    If a quorum cannot have declaration within 30 minutes of the meeting’s designated starting time, 
+    the meeting shall get called again for a similar time and place the following week. 
+    If less than ⅗ of Officers attend the reconvened meeting, then no meeting can be called to order.
+    If a Chairperson has not taken the chair 15 minutes after the designated starting time, 
+    the next Officer in command that is also present at the meeting shall use the procedure for deciding who will act as chairperson, 
+    as outlined in the TODA Bylaws.  
+    The Chairperson will acknowledge those who formally notified they could not attend the meeting.
+    
+*** Subsection V - Previous Minutes
+    
+   The Chairperson tables the minutes of the previous meeting making them open as a topic of discussion. 
+   At this point the Chairperson will ask the members to adopt the minutes. 
+   If the Officers do not agree that the draft minutes hold accurate, corrections may be suggested. 
+   The acting Secretary shall note the suggested corrections. 
+   The Chairperson shall ask the Officers to vote to adopt the minutes with the suggested corrections.
+   Once the minutes have become adopted the Chairperson shall sign every page of the minutes and hand them to the acting Secretary for filing.
+   This time does not hold appropriate to indulge in debates on decisions which were made at the previous meeting. 
+   Anyone who wishes to change a motion shall wait until the same subject arises in the general business of the current meeting or raise it in the part called "Any Other Business".
+    
+*** Subsection VI - Business from Previous Minutes
+    
+    Often the issues for Business arising from the Minutes of the Previous Meeting get listed in the agenda. 
+    Any reports, pieces of information or other matters of substance that got requested at the previous meeting get debated and a vote gets taken on the appropriate action to take.
+  
+*** Subsection VII - Suggestion Box 
+    
+    Any letters, facsimiles and the like, which have been received by the committee are discussed here. 
+    The Chairperson should summarize correspondence which cover similar issues, or express similar opinions and discuss them as a single issue.
+    The Chairperson presents a piece of correspondence to the meeting by putting a motion that the meeting "receive the correspondence". 
+    This is an acknowledgment by the meeting that the correspondence as been formally received and that it may now be discussed and acted upon, if necessary.
+    If correspondence sent to the meeting is considered offensive, the meeting can vote on a motion, "not to receive" it. 
+    Alternatively, the meeting can decide that the correspondence should be "received and lie on the table". 
+    This means it will not really be dealt with. 
+    It is effectively in limbo until such time in the future that it is "taken from the table" and discussed.
+    
+*** Subsection VIII - Reports 
+   
+    Reports and submissions that have been written for the meeting or include information relevant to the work of the meeting are tabled and discussed. 
+    A motion is required to be put that a report be received. 
+    This means that the report exists, as far as the meeting is concerned, and a discussion or debate may now take placed on the contents, interpretation and recommendations of the report. 
+    Motions are able to be put for or against the recommendations of the report or ask the author to consider further issues or reconsider issues on the basis of particular information.
+    A member of a meeting can even put forward a motion to change the wording of a report or submission.
+   
+*** Subsection IX - General Business
+    
+    General business items are announced singly by the Chairperson and a discussion or debate follows each one. 
+    Motions that suggest methods of resolving issues are put forward and to a vote. 
+    Once the motions receive a simple majority, or a majority as defined in the standing orders, they become resolutions. 
+    Sometimes amendments to a motion are put forward. 
+    Only after the amendments are debated and voted upon can the revised substantive motion be brought to the vote. 
+    In the case of more formal meetings, general business consists of motions that are moved and seconded by participants of the meetings. 
+    In most meetings however, the need for a member to support a motion is ignored.
+   
+*** Subsection X - Other Business
+    
+    It is at this point in time, that the members are able to raise issues they feel are important. 
+    These include any items which were not listed on the agenda. 
+    No extremely important or complex issues should be raised unannounced during this part of the meeting. 
+    If an urgent matter must be dealt with by the meeting, 
+    the Chairperson should be informed before the meeting begins. 
+    A revised agenda can then be drawn up in the time that remains before the meeting is due to begin. 
+    If the Chairperson feels that any of the issues brought up for discussion are too complex or troublesome, 
+    he may call for another meeting to discuss the issue or 
+    alternatively, put it on the agenda for the next scheduled meeting.
+   
+*** Subsection XI - Adjournment
+    
+    Once all the issues have been put forward and discussed, 
+    the Chairperson advises members of the date and time of the next meeting. 
+    The meeting is now officially closed.
+    
+* Article VI - Ratification and Amendments
+  
+** Section I - Ratification
+   
+   This constitution shall have authority upon unanimous approval by all charter members of TODA present during ratification. 
+   To ratify the constitution, each of the charter members present during ratification shall sign a printed version of the completed constitution using wet ink.
+  
+** Section II - Process for Amendments
+
+*** Subsection I - Nomination
+    
+    Members shall use the suggestion box to suggest amendments. 
+    Suggested amendments shall be reviewed by Officers during evaluation of the contents of the suggestion box.
+    Officers can nominate amendments at the end of each officer meeting. 
+    If the nominated amendment gets support from at least 3/5 of all registered TODA Officers, the amendment will appear on the ballot during either a midterm or final Election Day meeting.
+   
+*** Subsection II - Amendment Procedures for Election Days 
+    
+    All voting active members must vote on amendments during Election Day. 
+    Election Ballots shall have the writing if it has passed the nomination process. 
+    If an amendment receives more than 50% of the present electorate’s approval during that election day, the amendment shall pass.
+    
+   
+  \pagebreak  
+* Signatures 
+  \pagebreak
+ 
+* Amendments 
