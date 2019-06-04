@@ -50,7 +50,9 @@ For these reasons, we create the Tabletop Organization for Data Analysis.
      The Bylaws shall define the membership requirements.
      
 **** Membership Population
-     
+
+# Check with the RSO documentation, this section was written to abide by a spring 2017 manual. has probably changed since
+
      No less than ⅔ of TODA’s membership shall consist of UNLV students, faculty, or staff. 
      Non-UNLV membership slots will be considered as outline in the TODA Bylaws. 
     
@@ -124,7 +126,9 @@ For these reasons, we create the Tabletop Organization for Data Analysis.
      The bylaws may dictate which positions may combine so one person may fulfill multiple positions.
      
 *** Subsection III - Elections and Appointments
-    
+
+# This Section needs to get filled out more, especially the nomination process
+
 **** Nominations 
      
 ***** UUID 
@@ -183,7 +187,9 @@ For these reasons, we create the Tabletop Organization for Data Analysis.
     Further descriptions of these committees hold their description in the bylaws.
 
 * Article V - Meetings
-  
+
+# We may need to move some of this to the bylaws
+
 ** Section I - TODA General Meetings
    
 *** Subsection I - Spatial Structure 
