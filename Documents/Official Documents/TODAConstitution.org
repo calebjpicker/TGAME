@@ -1,0 +1,51 @@
+#+TITLE: Constitution of "Tabletop Organization for Data Analysis"
+#+SUBTITLE: University of Nevada, Las Vegas
+#+AUTHOR: 
+#+DATE: Revised 
+#+CLASS: report
+
+Preamble: We will use tabletop gaming to promote scientific literacy and data analytical skills. 
+This organization hopes to create a community around tabletop games and data analysis that crosses disciplines. 
+We hope to encourage intellectual diversity among members and for members to engage in their own inter-member projects. 
+We hope to organize and support members at all levels of understanding. 
+For these reasons, we create the Tabletop Organization for Data Analysis.
+
+* Article I - Name 
+  
+  This organization shall have the name “Tabletop Organization for Data Analysis”, herein referred to as “TODA”.
+  
+* Article II - Purpose
+  
+  TODA will serve the following purposes:
+    A) To encourage interdisciplinary research projects and networking;
+    B) To encourage science literacy through data analysis;
+    C) To use tabletop games as a familiar subject across disciplines in order to apply data analysis;
+    D) To provide people with supplementary data analysis experience for resumes and applications.
+  
+* Article III - Authority
+** Section I - Registered Student Organization
+   TODA holds recognition as a Registered Student Organization of the University of Nevada, Las Vegas (RSO) and adheres to the policies as set forth by the /UNLV Student Conduct Code/, /UNLV Student Engagement and Diversity Policies and Procedures/, and /UNLV Registered Student Organization Handbook/.
+** Section II - Bylaws
+   This organization shall establish bylaws to govern administrative and procedural matters (such as time and location of meetings, etc.). 
+   Bylaws shall not conflict with this constitution. 
+   Bylaws may get adopted, amended, or temporarily suspended by a majority vote present at a TODA meeting where a quorum exists (advance notice is not required).
+* Article IV
+** Section I - Membership 
+*** Subsection I - Qualification
+**** Anti-discrimination Clause
+     All current students, faculty, and staff of the University of Nevada, Las Vegas (UNLV) as well as members of the community outside UNLV may obtain membership status, regardless of age, creed, race, color, sex, sexual orientation, gender identity, political affiliation, socioeconomic status, disability, national origin, or status as a veteran.
+**** Members 
+     The Bylaws shall define the membership requirements.
+**** Membership Population
+     No less than ⅔ of TODA’s membership shall consist of UNLV students, faculty, or staff. 
+     Non-UNLV membership slots will be considered as outline in the TODA Bylaws. 
+*** Subsection II - Privileges and Responsibilities
+**** Privileges
+     
+**** Responsibilities
+* Article V
+** Section I - TODA General Meetings
+** Section II - TODA Officer Meetings 
+* Article VI
+** Section I 
+** Section II 
