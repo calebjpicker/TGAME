@@ -2,26 +2,26 @@
 #+SUBTITLE: University of Nevada, Las Vegas
 #+OPTIONS: author:nil date:nil toc:t
 ** Preamble
-We will use tabletop gaming to promote scientific literacy and data analytical skills. 
-This organization hopes to create a community around tabletop games and data analysis that crosses disciplines. 
-We hope to encourage intellectual diversity among members and for members to engage in their own inter-member projects. 
-We hope to organize and support members at all levels of understanding. 
-For these reasons, we create the Tabletop Organization for Data Analysis.
 
-* Article I - Name 
+This organization seeks to use tabletop gaming to promote scientific literacy and data analytical skills.  Our organization promotes  interdiscriplinary and intellectually diverse research and data analytic projects among members to broaden and deepen their own understanding and knowledge. We organize to support members at all levels of understanding.
+
+* Article I - Name of Organization
   
   This organization shall have the name “Tabletop Organization for Data Analysis”, herein referred to as “TODA”.
+  
 * Article II - Purpose
   
   TODA will serve the following purposes:
   
-    A) To encourage interdisciplinary research projects and networking;
+    A) To encourage playing tabletop games;
     
-    B) To encourage science literacy through data analysis;
+    B) To encourage interdisciplinary research projects and networking;
     
-    C) To use tabletop games as a familiar subject across disciplines in order to apply data analysis;
+    C) To encourage science literacy through data analysis;
     
-    D) To provide people with supplementary data analysis experience for resumes and applications.
+    D) To use tabletop games as a familiar subject across disciplines in order to apply data analysis;
+    
+    E) To provide people with supplementary data analysis experience for resumes and applications.
   
 * Article III - Authority
   
@@ -31,8 +31,8 @@ For these reasons, we create the Tabletop Organization for Data Analysis.
    
 ** Section II - Bylaws
    
-   This organization shall establish bylaws to govern administrative and procedural matters (such as time and location of meetings, etc.). 
-   Bylaws shall not conflict with this constitution. 
+   This organization shall establish Bylaws to govern administrative and procedural matters (such as time and location of meetings, etc.). 
+   Bylaws shall not conflict with this Constitution. 
    Bylaws may get adopted, amended, or temporarily suspended by a majority vote present at a TODA meeting where a quorum exists (advance notice is not required).
    
 * Article IV - Membership, Officers, and Organization
@@ -50,11 +50,10 @@ For these reasons, we create the Tabletop Organization for Data Analysis.
      The Bylaws shall define the membership requirements.
      
 **** Membership Population
-
 # Check with the RSO documentation, this section was written to abide by a spring 2017 manual. has probably changed since
 
-     No less than ⅔ of TODA’s membership shall consist of UNLV students, faculty, or staff. 
-     Non-UNLV membership slots will be considered as outline in the TODA Bylaws. 
+     No less than 5 of TODA’s members shall consist of UNLV students, faculty, or staff. 
+     Non-UNLV membership slots will be considered as outlined in the TODA Bylaws. 
     
 *** Subsection II - Privileges and Responsibilities
     
@@ -63,6 +62,10 @@ For these reasons, we create the Tabletop Organization for Data Analysis.
 ***** Definition of Privilege 
       
       Benefits afforded by TODA to TODA active members.
+
+***** Privileges
+
+      All TODA members have privileges as outlined in the TODA Bylaws.
       
 **** Responsibilities
      
@@ -72,27 +75,26 @@ For these reasons, we create the Tabletop Organization for Data Analysis.
       
 ***** Responsibilities 
       
-      All TODA members and any person who is part of or related to TODA have responsibilities toward TODA members, TODA, community members, and the community. 
+      All TODA members and any person part of, related to, or in any way representing TODA have responsibilities toward TODA members, TODA, community members, and the community. 
       TODA responsibilities are outlined in the TODA Bylaws.
       
 *** Subsection III - Code of Conduct
     
-    All members, non-members, or otherwise representing TODA in any capacity anymust abide by the Code of Conduct
+    All members, non-members, or any person in any way representing TODA in any capacity must abide by the UNLV Student Code of Conduct and TODA's Code of Conduct.
     
 *** Subsection IV - Disciplinary Actions
     
-    All members, non-members, or otherwise representing TODA will be recommended for and be subject to Disciplinary Action as outlined in the Bylaws.
+    All members, non-members, or any person in any way representing TODA will be recommended for and be subject to Disciplinary Action as outlined in the Bylaws.
      
 ** Section II - Officers
-   
   
 *** Subsection I - General Qualifications for Positions 
     
-    The absolute minimum of officer will equal 5. 
+    The absolute minimum number of officers will equal 5. 
     As the group grows, the minimum officers will grow proportionally. 
     For membership up to the size of 100, this proportion will be at least 10%. 
     After 100, this proportion will equal 5% plus 5 positions. 
-    People in primary officer positions must have active status and UNLV student status. 
+    People in primary officer positions must have active TODA membership status and active UNLV student status. 
     Candidates must also have at least 1 semester in TODA or have founded the club.
 
 *** Subsection II - Positions
@@ -102,27 +104,27 @@ For these reasons, we create the Tabletop Organization for Data Analysis.
      Primary officer positions have elected position status. 
      Primary officer positions will have the chair registered with UNLV’s OED. 
      All primary officer chairs must follow the election procedure elections to have the chair filled. 
-     The privileges and responsibilities of primary officers have description in the TODA bylaws.
+     The privileges and responsibilities of primary officers have description in the Bylaws.
      
 **** Secondary Officer Positions 
      
      Secondary officer positions have appointed or elected status, with the exception of the Past President position. 
      Secondary officer positions will register with UNLV’s OED. 
      A primary officer may appoint someone to a secondary officer chair, or the primary officers may open any secondary officer chairs to the election process. 
-     The TODA bylaws will describe privileges and responsibilities of secondary officers.
+     The privileges and responsibilities of seondary officers have description in the Bylaws.
     
 **** Honorary Officer Positions 
     
      TODA shall have a President, Membership Vice President, Public Relations Vice President, Secretary, Treasurer, Director of Marketing, and Sergeant at Arms as the seven primary officer positions. 
      TODA shall also have a Past President if a new President gets elected, a Historian, a Publicist of Newsletters, and a Publicist of Peer-Review, as standing secondary officer positions. 
-     The roles of these officers have descriptions in the bylaws. 
-     The bylaws may dictate which positions may combine so one person may fulfill multiple positions.
+     The roles of these officers have descriptions in the Bylaws. 
+     The Bylaws may dictate which positions may combine so one person may fulfill multiple positions.
      
 **** Default Positions 
      
      TODA shall have a President, Membership Vice President, Public Relations Vice President, Secretary, Treasurer, Director of Marketing, and Sergeant at Arms as the seven primary officer positions. 
      TODA shall also have a Past President if a new President gets elected, a Historian, a Publicist of Newsletters, and a Publicist of Peer-Review, as standing secondary officer positions. 
-     The roles of these officers have descriptions in the bylaws. 
+     The roles of these officers have descriptions in the Bylaws. 
      The bylaws may dictate which positions may combine so one person may fulfill multiple positions.
      
 *** Subsection III - Elections and Appointments
@@ -131,13 +133,13 @@ For these reasons, we create the Tabletop Organization for Data Analysis.
 
 **** Nominations 
      
-***** UUID 
+***** Universal Unique ID 
       
-      [All Members will be assigned a Universal Unique IDs. → move this to BYLAWS.]  Universal Unique IDs will be required to make any and all nominations.
+      Universal Unique IDs will be required to make any and all nominations.
      
 ***** Procedure 
       
-      A member may get nominated to an elected chair if and only if another member nominated this member and another person seconds.
+      A member may get nominated to an elected chair if and only if another member nominated this member and if another member seconds.
       
 **** Voting Method 
      
@@ -148,7 +150,7 @@ For these reasons, we create the Tabletop Organization for Data Analysis.
      The candidate with the highest average will win. 
      No officer shall win an election, without more than 50% of the total range 
      (e.g., total range of the anchor points of the scale used in the voting election. For example, if the scale ranged from 1-10, then, to win an election, the nominee must get more than 5.0 in average ratings), 
-     and no office shall win an election without receiving a score from more than 11% of the active club membership.
+     and no officer shall win an election without receiving a score from more than 11% of the active members.
 
 **** Election Day
      
