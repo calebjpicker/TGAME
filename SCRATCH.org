@@ -11,4 +11,19 @@ Priority: Low
 *** Leader Boards
 These would get based on a standard normal curve.
 Would require a program.
-*
+
+** Constitution
+Priority: Medium
+*** Officer duties
+**** President
+Every officer functions as a node in a network.
+Except the President and Secretary.
+The Secretary and President function as the write and execute program of the organization. 
+The President emphatically acts as the network that connects and integrates nodes.
+**** Secretary
+Every officer functions as a node in a network.
+Except the President and Secretary.
+The Secretary and President function as the write and execute program of the organization. 
+The Secratary acts as the communication between all other nodes in this network.
+They log all required activity and communicate it to the necessary nodes.
+
