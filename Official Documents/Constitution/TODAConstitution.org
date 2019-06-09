@@ -2,6 +2,9 @@
 #+SUBTITLE: University of Nevada, Las Vegas
 #+AUTHOR: Rudolf Jovero and Caleb J. Picker
 #+OPTIONS: author:nil date:nil toc:t
+
+# I read through the RSO handbook, We should define the functions of the basic functions of President, Secratary, and especially the Treasurer. Also we need to define how we will handle financial matters here and not the bylaws.
+
 ** Preamble
 
 This organization seeks to use tabletop gaming to promote scientific literacy and data analytical skills.  Our organization promotes  interdiscriplinary and intellectually diverse research and data analytic projects among members to broaden and deepen their own understanding and knowledge. We organize to support members at all levels of understanding.
