@@ -6,14 +6,16 @@
 # I read through the RSO handbook, We should define the functions of the basic functions of President, Secratary, and especially the Treasurer. Also we need to define how we will handle financial matters here and not the bylaws.
 
 ** Preamble
+# We need to define the purpose of writing this constitution.
 
 This organization seeks to use tabletop gaming to promote scientific literacy and data analytical skills.  Our organization promotes  interdiscriplinary and intellectually diverse research and data analytic projects among members to broaden and deepen their own understanding and knowledge. We organize to support members at all levels of understanding.
 
 * Article I - Name of Organization
   
-  This organization shall have the name “Tabletop Organization for Data Analysis”, herein referred to as “TODA”.
+  This organization shall have the name “Tabletop Organization for Design Application and Technical Orchestration of Data Analysis”, herein referred to as “TODA2”.
   
 * Article II - Purpose
+# We need to define the purpose of having this organization
   
   TODA will serve the following purposes:
   
@@ -206,7 +208,8 @@ This organization seeks to use tabletop gaming to promote scientific literacy an
    
 *** Subsection V - Powers Granted
 
-**** Responsibilities of all Officers
+**** Responsibilities Officers
+# we need to decide between what gets defined in the bylaws and the constitution. also perhaps we should put this under authority.
 
 	 The Executive Board shall propose a program of events or publication to be sponsored by TODA in forthcoming Fall and Spring semesters. 
 	 Proposed programs shall be presented to the board and then established by a quorum. The Executive Board shall encourage Members to recommend programs or publication to be sponsored by TODA. 
