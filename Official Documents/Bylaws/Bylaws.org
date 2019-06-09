@@ -1,7 +1,8 @@
 #+TITLE: Tabletop Organization for Data Analysis and Applications
 
-# I think we should start from scratch given the discussion we had last night.
-# I don't think it's a good idea to start from scratch per se.  It's better to take the work we've already done and then fit and mold that into our structure.
+# R: I think we should start from scratch given the discussion we had last night.
+# C: I don't think it's a good idea to start from scratch per se.  It's better to take the work we've already done and then fit and mold that into our structure.
+# R: I think we should create a new structure for the bylaws then pull any info that's useful from the old .docx file. The old bylaws look more like a list of ideas rather than anything with direction. We have direction form the constitution. We just need to form a structure for the officer team.
 
 * Article I - Organizational Structure
 
