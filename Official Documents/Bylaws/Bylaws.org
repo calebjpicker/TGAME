@@ -1,0 +1,130 @@
+#+TITLE: Tabletop Organization for Data Analysis and Applications
+
+# R: I think we should start from scratch given the discussion we had last night.
+# C: I don't think it's a good idea to start from scratch per se.  It's better to take the work we've already done and then fit and mold that into our structure.
+# R: I think we should create a new structure for the bylaws then pull any info that's useful from the old .docx file. The old bylaws look more like a list of ideas rather than anything with direction. We have direction form the constitution. We just need to form a structure for the officer team.
+
+* Article I - Organizational Structure
+
+  
+
+  TODAA has adopted this structure 
+
+  The structure of this organization begins with defining tasks.
+
+  Tasks then get delegated to nodes.
+
+  Afterwards, nodes get delegated to officer positions.
+
+  
+
+* Tasks and nodes.
+
+  
+
+  Tasks will get listed in a Task list, then compiled into similar sets of tasks.
+
+  These sets are called nodes.
+
+  Once nodes get defined, Certain entites will delegate the node.
+
+  they will either have expedient or boarding status.
+
+  In the case of an expedient node, the president will delegate this node.
+
+  In the case of a boarding node, the executive board will decide the delegation.
+
+  In order to run this system some 
+
+
+
+* Article II - Standing Initiatives
+
+
+
+# This was an empty section in the first place. I've filled it with ideas
+
+
+
+** Growth Mindset
+
+
+
+** Parallels with NGSS
+
+
+
+* Article III - Officer Duties
+
+
+
+** President
+
+
+
+# Let's have catchy taglines for these roles, imagine if you had to make an action
+
+
+
+*** Integrate and Delegate
+
+
+
+- President handles expidicted delegations to leadership type positions. 
+
+  Otherwise delegations occur by council. 
+
+
+
+# Concil TB defined.
+
+
+
+- President recieves data from the total organization, then works with the rest of council to direct internodal needs.
+
+
+
+- President ensures clear communication between all notes.
+
+
+
+*** The outside face of the organization
+
+
+
+- The president will communicate with external authorities.
+
+
+
+- The president will attend requried RSO functions.
+
+
+
+- The president will present budget presentation to CSUN.
+
+
+
+** Vice Presidents
+
+
+
+*** Branch and Merge
+
+
+
+*** The inside faces of the organization
+
+
+
+* Article IV - Members
+
+
+
+* Article V - Meetings
+
+
+
+* Article VI - Change Log
+
+
+
