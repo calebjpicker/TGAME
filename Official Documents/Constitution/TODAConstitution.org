@@ -8,7 +8,12 @@
 ** Preamble
 # We need to define the purpose of writing this constitution.
 
-This organization seeks to use tabletop gaming to promote scientific literacy and data analytical skills.  Our organization promotes interdiscriplinary and intellectually diverse research and data analytic projects among members to broaden and deepen their own understanding and knowledge. We organize to support members at all levels of understanding.
+#This organization seeks to use tabletop gaming to promote scientific literacy and data analytical skills.  Our organization promotes interdiscriplinary and intellectually diverse research and data analytic projects among members to broaden and deepen their own understanding and knowledge. We organize to support members at all levels of understanding.
+
+Tabletop games foster a sense of community.  
+Tabletop games therefore offer the chance to bring together and engage individuals from other disciplines, to collaborate, and to cultivate and explore passions.  
+Each exploration offers the opportunity for individuals to grow their knowledge and skills and so educate and empower individuals.  
+Individuals are the nodes that comprise TODA, and thus TODA is designed to grow the individual as well as continually adapt to changing needs.
 
 * Article I - Name of Organization
   
