@@ -1,2 +1,19 @@
-#+TITLE: TODA
-* Tabletop Organization for Data Analysis Official Repository
+#+TITLE: TODAA
+* Tabletop Organization for Data Analysis and Application Official Repository
+** Purpose 
+
+The purpose of this GitHub repository is to host all the files required for establishing, maintaining, and tweaking the organization known as
+Tabletop Organization for Data Anaysis and Application (TODAA).  The fact you are seeing this means you have a voice in this organization.  To share your voice
+we think that GitHub is the best collaborative tool do achieve this.  GitHub is a collaborative tool that allows multiple users to interact with, share, discuss, and modify
+everything that is hosted in a repository.  Typically, GitHub is used to host complex computer code projects that have many moving part and people.  This is why we think that
+GitHub was best to host the documentation for establishing, maintaining, and developing this organization as a Registered Student Organization at UNLV.  GitHub is the clearest way we can track all moving parts, with all consiserations from all users and best integrate them into our documentation and thus the soul and personlity of TODAA. 
+
+Rudy and I have been developing TODAA since the beginning of the Spring 2018 semester.  And our group has grown since then.  To accommodate diverse interests, values, and beliefs about what this organization means, we want to make everything transparent so that each diverse opinion--which only makes us better and more robust--is counted. 
+
+** Getting Started
+
+GitHub has many features.  To get started, just open an issue.  You can open an issue by:
+
+1. Click the 'Issues' tab.  
+2. Click the green button labeled 'New Issue'.
+3. Fill in an appropriate title.  The more specific the title the better.  For example, a good title is, "

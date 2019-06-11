@@ -8,26 +8,34 @@
 ** Preamble
 # We need to define the purpose of writing this constitution.
 
-This organization seeks to use tabletop gaming to promote scientific literacy and data analytical skills.  Our organization promotes  interdiscriplinary and intellectually diverse research and data analytic projects among members to broaden and deepen their own understanding and knowledge. We organize to support members at all levels of understanding.
+This organization seeks to use tabletop gaming to promote scientific literacy and data analytical skills.  Our organization promotes interdiscriplinary and intellectually diverse research and data analytic projects among members to broaden and deepen their own understanding and knowledge. We organize to support members at all levels of understanding.
 
 * Article I - Name of Organization
   
-  This organization shall have the name “Tabletop Organization for Design Application and Total Oriented Data Analysis”, herein referred to as “TODA2”.
+  This organization shall have the name “Tabletop Organization for Data, Design, and Application”, herein referred to as “TODA”.
   
 * Article II - Purpose
 # We need to define the purpose of having this organization
   
   TODA will serve the following purposes:
   
-    A) To encourage playing of tabletop games;
+**Interdisciplinary and Collaborative. 
+
+	Every perspective has value through different analyses. And every analysis generates new value through collaboration.
+
+**Growth Mindset. 
 	
-		B) To unite people over common interests of tabletop games and data analysis;
+	Knowledge and skills increase through passion and perseverance.
+
+**Engage and Adapt. 
 	
-    C) To promote and educate people on science literacy and data analysis through tabletop games;
-    
-    D) To encourage interdisciplinary research projects and networking;
-    
-    E) To provide people with data analysis experience for career building.
+	Involve and develop with changing needs of organization and community.
+
+**Educate and Empower. 
+
+	Develop, demonstrate, and parallel new knowledge and skills to increase self-confidence.
+	
+**Restrained.  The reason tabletop is a great medium is because you're constrained computationally, spatially,
   
 * Article III - Authority
   
