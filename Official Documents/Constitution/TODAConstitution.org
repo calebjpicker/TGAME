@@ -26,7 +26,6 @@ For these reasons, we structure and establish TODA.
   This organization shall have the name “Tabletop Organization for Data, Design, and Application”, herein referred to as “TODA”.
   
 * Article II - Purpose
-# We need to define the purpose of having this organization
   
   TODA will serve the following purposes:
   
