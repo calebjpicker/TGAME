@@ -1,5 +1,5 @@
-#+TITLE: TODAA
-* Tabletop Organization for Data Analysis and Application Official Repository
+#+TITLE: TODA
+* Tabletop Organization for Data, Design and Application Official Repository
 ** Purpose 
 
 The purpose of this GitHub repository is to host all the files required for establishing, maintaining, and tweaking the organization known as
