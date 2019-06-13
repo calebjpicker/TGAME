@@ -10,10 +10,14 @@
 
 #This organization seeks to use tabletop gaming to promote scientific literacy and data analytical skills.  Our organization promotes interdiscriplinary and intellectually diverse research and data analytic projects among members to broaden and deepen their own understanding and knowledge. We organize to support members at all levels of understanding.
 
-Tabletop games foster a sense of community.  
-Tabletop games therefore offer the chance to bring together and engage individuals from other disciplines, to collaborate, and to cultivate and explore passions.  
-Each exploration offers the opportunity for individuals to grow their knowledge and skills and so educate and empower individuals.  
-Individuals are the nodes that comprise TODA, and thus TODA is designed to grow the individual as well as continually adapt to changing needs.
+Tabletop games explore a wide array of themes, passions, and interests. 
+From the spatial and computational constraints of physical tabletop games, simple rules allow players to construct complex theories and then devise strategies to test those theories. 
+When tested, players use the collected data to revise their theories. 
+Tabletop games therefore offer players the opportunity to construct theories, practice those theories, and advance those theories.
+
+At a higher level, our tabletop organization will accommodate and promote the use of theory and practice to satisfy societal needs and values. 
+Individuals of various skills and backgrounds determine societal needs and values. 
+At every level, individuals develop organizational needs, and the organization provides the structure to use theory and practice to satisfy those needs.
 
 * Article I - Name of Organization
   
