@@ -6,18 +6,20 @@
 # I read through the RSO handbook, We should define the functions of the basic functions of President, Secratary, and especially the Treasurer. Also we need to define how we will handle financial matters here and not the bylaws.
 
 ** Preamble
-# We need to define the purpose of writing this constitution.
 
-#This organization seeks to use tabletop gaming to promote scientific literacy and data analytical skills.  Our organization promotes interdiscriplinary and intellectually diverse research and data analytic projects among members to broaden and deepen their own understanding and knowledge. We organize to support members at all levels of understanding.
+To educate the community about the cycle that improves society, TODA uses tabletop games.
 
-Tabletop games explore a wide array of themes, passions, and interests. 
-From the spatial and computational constraints of physical tabletop games, simple rules allow players to construct complex theories and then devise strategies to test those theories. 
-When tested, players use the collected data to revise their theories. 
-Tabletop games therefore offer players the opportunity to construct theories, practice those theories, and advance those theories.
+Every day, individuals and communities contribute to a cycle that improves society: They design, play, and test.  
+For design, artists and engineers create solutions to society’s problems.  
+For play, individuals and businesses use solutions to improve lives.  
+For test, scientists, philosophers, and writers create knowledge that enhances design.  
 
-At a higher level, our tabletop organization will accommodate and promote the use of theory and practice to satisfy societal needs and values. 
-Individuals of various skills and backgrounds determine societal needs and values. 
-At every level, individuals develop organizational needs, and the organization provides the structure to use theory and practice to satisfy those needs.
+Design. Play. Test.
+
+When individuals and communities understand this cycle, they can collaborate with each other to improve society.  
+Tabletop games are physically and computationally constrained, and thus provide a simpler medium to educate about design-play-test.  
+For these reasons, we structure and establish TODA.
+
 
 * Article I - Name of Organization
   
