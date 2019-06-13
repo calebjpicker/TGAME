@@ -1,2 +1,55 @@
 #+TITLE: TODA
-* Tabletop Organization for Data Analysis Official Repository
+* Tabletop Organization for Data, Design and Application Official Repository
+** Purpose 
+
+The purpose of this GitHub repository is to host all the files required for establishing, maintaining, and tweaking the organization known as
+Tabletop Organization for Data Anaysis and Application (TODAA). 
+GitHub is a collaborative tool that allows multiple users to interact with, share, discuss, and modify everything that is hosted in a repository.
+  
+Typically, GitHub is used to host complex computer code projects that have many moving parts and people. 
+GitHub is the best tool to host documentation for establishing, maintaining, and developing TODA.
+
+GitHub is the clearest way to track all moving parts, with all considerations from all users and best integrate them into our documentation.
+
+Rudy and I have been developing TODA since Fall 2017, and our group has grown since then.
+
+To accommodate diverse interests, values, and beliefs about this organization, we want to make everything transparent so that each diverse opinion--which only makes us better and more robust--is counted.
+
+** Getting Started
+
+GitHub has many features.
+One commonly used feature is called issues.
+Issues are the primary way that requests, concerns, enhancements and suggestions are handled.
+
+To get started, just open an issue.  To open an issue:
+
+1. Click the '[[https://github.com/calebjpicker/TODA/issues][Issues]]' tab.  
+2. Click the green button labeled 'New Issue'.
+3. Type a detailed title.
+4. Type a detailed description.
+5. Click 'Submit new issue'.
+
+Either you or we will add additional labels to categorize the issue.
+Then anyone can comment and discuss the issue, and the entire discussion thread is visible.
+
+** Doing More
+*** Forks and Pull Requests
+If you want to directly contribute to documentation, you can 'fork' this repository to your account.
+A fork refers making a copy of this repository to your account.
+You make a copy, then you are free to make any changes you want.
+Eventually you can make a 'pull request' so that those changes can be reviewed.
+Like issues anyone can comment and discuss the pull request and finalize it.
+To fork the repository:
+
+1. on the repository page, click the upper right hand button that says 'fork' and github will copy it to your account.
+2. edit files as you'd like.
+3. make a pull request by clicking 'New pull request'.
+4. fill out the title and description like issues.
+5. Click 'Create pull request'.
+
+the community will then review and discuss.
+
+*** Projects
+Projects are used as a way to organize and implement large functions of the organization. Tasks, issues, and pull requests are organized within projects.
+
+If you would like to get involved and manage one or more projects, please contact Rudy or Caleb.
