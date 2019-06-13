@@ -1,33 +1,59 @@
 #+TITLE: Constitution of "Tabletop Organization for Data Analysis"
 #+SUBTITLE: University of Nevada, Las Vegas
+#+AUTHOR: Rudolf Jovero and Caleb J. Picker
 #+OPTIONS: author:nil date:nil toc:t
+
+# I read through the RSO handbook, We should define the functions of the basic functions of President, Secratary, and especially the Treasurer. Also we need to define how we will handle financial matters here and not the bylaws.
+
 ** Preamble
 
-This organization seeks to use tabletop gaming to promote scientific literacy and data analytical skills.  Our organization promotes  interdiscriplinary and intellectually diverse research and data analytic projects among members to broaden and deepen their own understanding and knowledge. We organize to support members at all levels of understanding.
+To educate the community about the cycle that improves society, TODA uses tabletop games.
+
+Every day, individuals and communities contribute to a cycle that improves society: They design, play, and test.  
+For design, artists and engineers create solutions to society’s problems.  
+For play, individuals and businesses use solutions to improve lives.  
+For test, scientists, philosophers, and writers create knowledge that enhances design.  
+
+Design. Play. Test.
+
+When individuals and communities understand this cycle, they can collaborate with each other to improve society.  
+Tabletop games are physically and computationally constrained, and thus provide a simpler medium to educate about design-play-test.  
+For these reasons, we structure and establish TODA.
+
 
 * Article I - Name of Organization
   
-  This organization shall have the name “Tabletop Organization for Data Analysis”, herein referred to as “TODA”.
+  This organization shall have the name “Tabletop Organization for Data, Design, and Application”, herein referred to as “TODA”.
   
 * Article II - Purpose
   
   TODA will serve the following purposes:
   
-    A) To encourage playing tabletop games;
-    
-    B) To encourage interdisciplinary research projects and networking;
-    
-    C) To encourage science literacy through data analysis;
-    
-    D) To use tabletop games as a familiar subject across disciplines in order to apply data analysis;
-    
-    E) To provide people with supplementary data analysis experience for resumes and applications.
+**Interdisciplinary and Collaborative. 
+
+	Every perspective has value through different analyses. And every analysis generates new value through collaboration.
+
+**Growth Mindset. 
+	
+	Knowledge and skills increase through passion and perseverance.
+
+**Engage and Adapt. 
+	
+	Involve and develop with changing needs of organization and community.
+
+**Educate and Empower. 
+
+	Develop, demonstrate, and parallel new knowledge and skills to increase self-confidence.
+	
+**Restrained.  The reason tabletop is a great medium is because you're constrained computationally, spatially,
   
 * Article III - Authority
   
 ** Section I - Registered Student Organization
    
-   TODA holds recognition as a Registered Student Organization of the University of Nevada, Las Vegas (RSO) and adheres to the policies as set forth by the /UNLV Student Conduct Code/, /UNLV Student Engagement and Diversity Policies and Procedures/, and /UNLV Registered Student Organization Handbook/.
+   TODA holds recognition as a Registered Student Organization of the University of Nevada, Las Vegas (RSO) and adheres to the policies as set 
+   forth by the /UNLV Student Conduct Code/, /UNLV Student Engagement and Diversity Policies and Procedures/, and /UNLV Registered Student Organization 
+   Handbook/.
    
 ** Section II - Bylaws
    
@@ -43,7 +69,9 @@ This organization seeks to use tabletop gaming to promote scientific literacy an
     
 **** Anti-discrimination Clause
      
-     All current students, faculty, and staff of the University of Nevada, Las Vegas (UNLV) as well as members of the community outside UNLV may obtain membership status, regardless of age, creed, race, color, sex, sexual orientation, gender identity, political affiliation, socioeconomic status, disability, national origin, or status as a veteran.
+     All current students, faculty, and staff of the University of Nevada, Las Vegas (UNLV) as well as members of the community outside 
+	 UNLV may obtain membership status, regardless of age, creed, race, color, sex, sexual orientation, gender identity, political affiliation, 
+	 socioeconomic status, disability, national origin, or status as a veteran.
      
 **** Members 
      
@@ -95,7 +123,9 @@ This organization seeks to use tabletop gaming to promote scientific literacy an
     For membership up to the size of 100, this proportion will be at least 10%. 
     After 100, this proportion will equal 5% plus 5 positions. 
     People in primary officer positions must have active TODA membership status and active UNLV student status. 
-    Candidates must also have at least 1 semester in TODA or have founded the club.
+    Candidates must also have at least 1 semester in TODA or have founded the club
+# Officers should be able to hold more than one office at different levels. Also the Vice president positions may combine to
+	Any UNLV student eligible to be an Officer of the TODA shall not be permitted to hold more than one primary Position in that organization at any one time.
 
 *** Subsection II - Positions
    
@@ -105,41 +135,46 @@ This organization seeks to use tabletop gaming to promote scientific literacy an
      Primary officer positions will have the chair registered with UNLV’s OED. 
      All primary officer chairs must follow the election procedure elections to have the chair filled. 
      The privileges and responsibilities of primary officers have description in the Bylaws.
+     # When we don't have 7+ people to act as officers we may need to combine roles
+     Roles may combine, during times when the officer duties cannot get met with 10% of the population, as dictated by the bylaws.
      
 **** Secondary Officer Positions 
      
      Secondary officer positions have appointed or elected status, with the exception of the Past President position. 
      Secondary officer positions will register with UNLV’s OED. 
-     A primary officer may appoint someone to a secondary officer chair, or the primary officers may open any secondary officer chairs to the election process. 
-     The privileges and responsibilities of seondary officers have description in the Bylaws.
+     A primary officer may appoint someone to a secondary officer chair, or the primary officers may open any secondary         officer chairs to the election process. 
+     The privileges and responsibilities of secondary officers have description in the Bylaws.
+     # When we don't have 7+ people to act as officers we may need to combine roles
+     Roles may combine, during times when the officer duties cannot get met with 10% of the population, as dictated by the bylaws.
     
 **** Honorary Officer Positions 
-    
-     TODA shall have a President, Membership Vice President, Public Relations Vice President, Secretary, Treasurer, Director of Marketing, and Sergeant at Arms as the seven primary officer positions. 
-     TODA shall also have a Past President if a new President gets elected, a Historian, a Publicist of Newsletters, and a Publicist of Peer-Review, as standing secondary officer positions. 
-     The roles of these officers have descriptions in the Bylaws. 
-     The Bylaws may dictate which positions may combine so one person may fulfill multiple positions.
-     
+
+    Honorary officer chairs have appointment status. Primary Officers may create honorary positions based on the need for leadership on projects.
+    Honorary officers may have non-student status as these officer position will not count as registered officer positions. 
+    An Honorary Officer does not necessarily gain the privileges of a Primary or Secondary Officer.
+
 **** Default Positions 
      
-     TODA shall have a President, Membership Vice President, Public Relations Vice President, Secretary, Treasurer, Director of Marketing, and Sergeant at Arms as the seven primary officer positions. 
+     TODA shall have a President, Membership Vice President, Public Relations Vice President, Secretary, Treasurer,       Director of Marketing, and Sergeant at Arms as the seven primary officer positions. 
      TODA shall also have a Past President if a new President gets elected, a Historian, a Publicist of Newsletters, and a Publicist of Peer-Review, as standing secondary officer positions. 
      The roles of these officers have descriptions in the Bylaws. 
      The bylaws may dictate which positions may combine so one person may fulfill multiple positions.
      
 *** Subsection III - Elections and Appointments
+**** Inaugural board
 
-# This Section needs to get filled out more, especially the nomination process
+# I added this because there isn't going to be enough eligible students to justify an election at the start of the semester.
+     TODA will have an initial board of appointed officers by the charter members of this constitution.
 
 **** Nominations 
      
 ***** Universal Unique ID 
       
-      Universal Unique IDs will be required to make any and all nominations.
+      Universal Unique IDs are required to make any and all nominations.
      
 ***** Procedure 
       
-      A member may get nominated to an elected chair if and only if another member nominated this member and if another member seconds.
+      A member may get nominated to an elected chair if and only if another active member nominated this member and if another active member seconds.
       
 **** Voting Method 
      
@@ -148,39 +183,96 @@ This organization seeks to use tabletop gaming to promote scientific literacy an
      The average score of each candidate will get taken. 
      When a ballot has “No Opinion” for a candidate, that ballot will not count in the averaging of that candidate’s score. 
      The candidate with the highest average will win. 
-     No officer shall win an election, without more than 50% of the total range 
-     (e.g., total range of the anchor points of the scale used in the voting election. For example, if the scale ranged from 1-10, then, to win an election, the nominee must get more than 5.0 in average ratings), 
-     and no officer shall win an election without receiving a score from more than 11% of the active members.
+     No officer shall win an election, without more than 50% of the total range (e.g., total range of the anchor points of the scale 
+	 used in the voting election. For example, if the scale ranged from 1-10, then, to win an election, the nominee must get more 
+	 than 5.0 in average ratings), and no officer shall win an election without receiving a score from more than 11% of the active members.
 
 **** Election Day
      
      The exact election day will be decided by an established quorum of Officers. 
      The election day will be decided by days given the most approvals.
+	   The meeting date for taking nominations and holding elections, as well as the nomination and election process, shall be well publicized to all members of TODA.
     
-***** Quorum. 
+***** Quorum 
       
-      Election day meetings must have quorum in order for ballots to get tallied. The Bylaws will specify the Quorum requirements.
+     Election day meetings must have quorum in order for ballots to get tallied. The Bylaws will specify the Quorum requirements.
       
 **** New and Appointed Positions 
+
+	Additional Officer positions may be created and officers appointed by the Executive Board.
+#I'm not sure what you're saying here Caleb
+  The Executive Board may include these appointed officers as part of the Organization’s governing body if a description of their responsibilities and authority are included in the Organization’s Bylaws.
      
 *** Subsection IV - Terms of Office
+
+**** Length of Terms
+	
+	All officers shall hold office for the term of one academic school year, where the school year begins in the Fall and ends in the following Spring.
+	Elections for new officer positions shall take place no later than one month before the end of each academic school year for as long as TODA exists.
+	All officers are eligible for re-election for the same position as long as they continue to meet the requirements of being elected.
+	
+**** Resignation
+	
+	Any Officer of TODA may resign at any time by delivering a written notice or email of such resignation to the President, or in the case of the resignation of the President, to the Vice President.
+		
+	When an Officer position is vacated, the Executive Board shall hold elections as soon as possible to fill the position by following TODA’s election procedures.
+		
+	If any Officer of TODA is absent from UNLV due to a leave of absence, voluntary health withdrawal, or studying abroad, the Executive Board shall hold elections to fill the position by following TODA’s election procedures.
+	
+**** Removal from Office
+	
+	Any Officer of TODA may be removed from such office by a two-thirds (2/3) affirmative vote of the Members. 
+	
    
-*** Subsection V - Powers Granted 
+*** Subsection V - Powers Granted
+
+**** Responsibilities Officers
+# we need to decide between what gets defined in the bylaws and the constitution. also perhaps we should put this under authority.
+
+	 The Executive Board shall propose a program of events or publication to be sponsored by TODA in forthcoming Fall and Spring semesters. 
+	 Proposed programs shall be presented to the board and then established by a quorum. The Executive Board shall encourage Members to recommend programs or publication to be sponsored by TODA. 
+   When appropriate, the Executive Committee shall appoint Members to serve as Honorary officers to oversee the 
+	 various tasks related to the program or publication and to solicit the involvement of other Members of TODA.
    
 **** President 
+	 
+	 The President shall call all meetings of TODA, regular or otherwise, and shall serve as the default chairperson of such meetings. 
+	 In addition, the President shall, with the advice of the Executive Committee, plan and coordinate the events to be sponsored by TODA in forthcoming terms; 
+   with the Treasurer, if applicable prepare and present an annual budget request to the appropriate funding source, and shall serve as a liaison with the relevant bodies.
+   Additional responsiblities will get outlined in the Bylaws.
      
-**** Vice Presidents 
-     
+**** Vice Presidents
+	 
+	 The Vice Presidents, in the absence of the President, or should the President prove unable or unwilling to perform the duties described above, shall assume the responsibilities of the President. 
+   In addition, the Vice President shall preside over all meetings of the Executive Committee 
+	 called and shall also perform other duties as the President may assign as needed. 
+   Additional responsiblities will get outlined in the Bylaws.
 **** Secretary
+
+	 The Secretary shall be responsible for recording accurate minutes of any Meeting, regular or otherwise, of TODA or the Executive Committee. 
+	 The Secretary shall also record all votes of the Membership or Executive Committee. The Secretary shall be responsible for the writing and 
+	 distribution of a newsletter or other notice to the Membership informing them of any Meeting or other gathering of TODA, 
+# I think this should be the job of the Membership Vice President
+#   and furthermore shall at all times maintain an accurate and complete list of the Membership and all regular and non- # regular attendees or affiliates of TODA.
      
-**** Treasurer 
+**** Treasurer
+	 
+	 The Treasurer shall be responsible for maintaining accurate financial records of TODA and shall be allowed to request payment on behalf of TODA. 
+	 The Treasurer, with the President, shall prepare and present any budget requests to the appropriate funding source. 
+   # *The University is not going to do our accounting*
+   # The officers shall insure that all funds are properly kept within the University accounting system. Outside bank accounts are not permitted, unless otherwise voted upon by a quorum.  
+   
+   # This should be in a different section or article about Records
+   All financial records must be audited and approved by a quorum.  All financial records must be held in an online server with access granted to all executive officers at all times.
+	 
+*****
 
 ** Section III - Organization
   
 *** Subsection I - Standing Committees 
     
     TODA shall have an executive, legislative, conduct, information, and marketing committee as standing committees. 
-    These and more standing committees hold their description in the bylaws.
+    These and more standing committees hold their description in the Bylaws.
     
 *** Subsection II - Select Committees 
     
@@ -194,39 +286,7 @@ This organization seeks to use tabletop gaming to promote scientific literacy an
 
 ** Section I - TODA General Meetings
    
-*** Subsection I - Spatial Structure 
-    
-    TODA meetings shall have three (3) designated areas: 
-    a gaming area, a social and refreshments area, and an officer meeting area. 
-    The gaming area is the area where members shall play games. 
-    The social and refreshments area is the area where members are not playing games but shall socialize and grab refreshments.
-    
-*** Subsection II - Temporal Structure 
-
-**** Introduction and Announcements
-     TODA meeting shall have time at the beginning of each meeting dedicated to introductions. 
-     TODA meetings may also have time dedicated to announcements.
-     
-**** Game Time 
-   
-     TODA meetings shall have at least one designated gametime period where members shall play games. 
-     There shall be a designated start time and end time, both of which shall be recorded by an officer for data collection. 
-     Members or officers shall collect additional data related to gameplay.
-     
-**** Social Time and Area 
-     
-     TODA meetings shall have a designated area for socializing while game time occurs.
-     
-**** Presentations 
-     
-     TODA meetings shall have a designated presentation period.
-     
-    
-**** Election Days 
-     
-     TODA shall have one official election day. 
-     Election days shall be decided by the officers during an Officer meeting prior to the previous year’s end. 
-     Officers shall decided additional election days as needed.
+	TODA meetings shall consist of designated spaces and times as described in the Bylaws.
     
 ** Section II - TODA Officer Meetings 
   
