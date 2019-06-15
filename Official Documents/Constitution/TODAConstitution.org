@@ -1,4 +1,4 @@
-#+TITLE: Constitution of "Tabletop Organization for Data Analysis"
+#+TITLE: Constitution of "Tabletop Organization for Data, Design, and Analysis"
 #+SUBTITLE: University of Nevada, Las Vegas
 #+AUTHOR: Rudolf Jovero and Caleb J. Picker
 #+OPTIONS: author:nil date:nil toc:t
