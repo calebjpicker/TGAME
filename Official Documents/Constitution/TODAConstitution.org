@@ -6,7 +6,7 @@
 # I read through the RSO handbook, We should define the functions of the basic functions of President, Secratary, and especially the Treasurer. Also we need to define how we will handle financial matters here and not the bylaws.
 
 ** Preamble
-
+#we want to add something about collaborative and growth mindset
 To educate the community about the cycle that improves society, TODA uses tabletop games.
 
 Every day, individuals and communities contribute to a cycle that improves society: They design, play, and test.  
