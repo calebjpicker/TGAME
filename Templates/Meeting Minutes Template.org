@@ -5,7 +5,7 @@
 
 [TODAY'S DATE]
 
-3:30 PM to 5:15 PM
+[SCHEDULED TIME START] to [SCHEDULED TIME END]
 
 ** Officers
 
