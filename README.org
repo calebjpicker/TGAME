@@ -4,20 +4,24 @@
 
 ** Why organize?
 
-  We are growing. 2 years ago we started with only 4 people! Now we have more than 16 people and counting coming to board game nights.
-  We attract new people, and we need a way to account for that.
+  We are growing. 2 years ago we started with only 4 people! 
+  Now we have more than 16 people and counting coming to board game nights.
+  We attract new people, and we need a way to account for this change.
   You were new once, and every one of you changed the group's dynamic when you came in.
   Going forward, each new person will continue to change the group dynamic.
+  We want to make sure that growth comes healthy.
+  This group should provide an improvement and not an unnecessary obligation to everyone's life.
 
   Playing board games requires many resources and a way to allocate those resources as best as possible.
-  When there are many people you need to ensure that there's adequate space to play, there's time to play them, and that everyone has something to do.
+  Anyone, whether it's a business or a person's appartment, needs to be planned to accommodate for adequate space to play, time to play, and that it is comfortable for everyone who attends.
   Each person's needs and interests should to be assesed. 
-  Information needs to be communicated effectively
-  We need an efficient way to satisfy these functions.  
+  Information needs to be communicated effectively, 
+  change about locations and times need to be communicated effectively.
+  We need an efficient way to satisfy these functions, so that it's less uncertainty and more enjoyment for everyone.
 
   With 4-6 people doing all of this takes less effort.
   However, our group will grow to potentially 30+ people.
-  With groups that grow, we still need to maintain the essential functions of the group: ensuring adequate spece, ensuring there is time to play, and ensuring that everyone gets informed.
+  With groups that grow, we still need to maintain the essential functions of the group: ensuring adequate space, ensuring there is time to play, and ensuring that everyone gets informed.
   This will become increasingly difficult without organization.
 
     
@@ -33,12 +37,18 @@
   GitHub is the clearest way to track all moving parts, with all considerations from all users and best integrate them into the documentation.
 
 ** Getting Started
+You have two options to get started:
 
-GitHub has many features.
-One commonly used feature is called issues.
+*** Suggestion Box
+You can submit a response in the suggestion box. We will then make an issue with the request so that the issue can be tracked publicly.
+Anyone may use the suggestion box anonymously, so please provide your sincere feedback! 
+
+[[https://docs.google.com/forms/d/e/1FAIpQLScj0W7QcGgvgTOsnhwyadtbRisGbt-maPGhRmKUoFkM08E5tA/viewform?vc=0&c=0&w=1][Suggestion Box]]
+
+*** Submitting Issues
 Issues are the primary way that requests, concerns, enhancements and suggestions are handled.
 
-To get started, just open an issue.  To open an issue:
+To get started, create an account and open an issue in this repository.  To open an issue:
 
 1. Click the '[[https://github.com/calebjpicker/TODA/issues][Issues]]' tab.  
 2. Click the green button labeled 'New Issue'.
