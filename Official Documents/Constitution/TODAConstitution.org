@@ -1,4 +1,4 @@
-#+TITLE: Constitution of "Tabletop Organization for Data Analysis"
+#+TITLE: Constitution of "Tabletop Organization for Data, Design, and Analysis"
 #+SUBTITLE: University of Nevada, Las Vegas
 #+AUTHOR: Rudolf Jovero and Caleb J. Picker
 #+OPTIONS: author:nil date:nil toc:t
@@ -20,6 +20,13 @@ When individuals and communities understand this cycle, they can collaborate wit
 Tabletop games are physically and computationally constrained, and thus provide a simpler medium to educate about design-play-test.  
 For these reasons, we structure and establish TODA.
 
+#revision1
+
+Tabletop games are fun.  They bring people together and tear them apart.  They offer easy victories and challenging ones.  They simplify and then complicate communication.  They teach us alliance and deception, strategy and negotiation, and diplomacy and assertiveness.  They teach us about societal plights, historical battles, and economics.  In short, tabletop games allow us to explore ourselves and others, to learn and demonstrate knowledge, and to discover new interests and ways of thinking--all of which improves our own and others' lives.  
+
+Tabletop games attract more people each day.  The more people that get together, the more there is a diversity of philosophies and interests.  These include interests to socialize and interact, to create and design, to analyze and illuminate, and to develop and teach.  Each person's philosophies and interests should be acknowledged and embraced.  Moreover, each new person should be embraced because they magnify and enhance existing philosophies and interests.  
+
+Up until now, there has been little to no structure to support the wide variety of passions and interests that people have.  This has been the goal of TODA since its inception in 2017: With tabletop games and its players at the center, TODA aims to provide such a structure.  This structure is at once supportive and adaptable to the ever-changing diversity of philosophies and interest; this structure grows and changes as people grow and change.  For these reasons, we do establish and form TODA.
 
 * Article I - Name of Organization
   
@@ -29,24 +36,22 @@ For these reasons, we structure and establish TODA.
   
   TODA will serve the following purposes:
   
-**Interdisciplinary and Collaborative. 
+** Interdisciplinary and Collaborative. 
 
 	Every perspective has value through different analyses. And every analysis generates new value through collaboration.
 
-**Growth Mindset. 
+** Growth Mindset. 
 	
 	Knowledge and skills increase through passion and perseverance.
 
-**Engage and Adapt. 
+** Engage and Adapt. 
 	
 	Involve and develop with changing needs of organization and community.
 
-**Educate and Empower. 
+** Educate and Empower. 
 
 	Develop, demonstrate, and parallel new knowledge and skills to increase self-confidence.
-	
-**Restrained.  The reason tabletop is a great medium is because you're constrained computationally, spatially,
-  
+	  
 * Article III - Authority
   
 ** Section I - Registered Student Organization
