@@ -1,37 +1,36 @@
 #+TITLE: TODA
 * Tabletop Organization for Data, Design and Application Official Repository
 
+
 *** Why organize?
-# We are growing. 2 years ago we started with only 4 people! Now we have more than 16 people and counting coming to board game nights.
-# We attract new people, and we need a way to account for that.
-# You were new once, and every one of you changed the group's dynamic when you came in.
-# going forward, each new person will continue to change the group dynamic.
 
-# Playing board games requires many resources and a way to allocate those resources as best as possible.
-# When there are many people you need to ensure that there's adequate space to play, there's time to play them, and that everyone has something to do.
-# each person's needs and interests should to be assesed. 
-# Information needs to be communicated effectively
-# We need an efficient way to satisfy these functions.  
+    We are growing. 2 years ago we started with only 4 people! Now we have more than 16 people and counting coming to board game nights.
+    We attract new people, and we need a way to account for that.
+    You were new once, and every one of you changed the group's dynamic when you came in.
+    going forward, each new person will continue to change the group dynamic.
 
-# With 4-6 people doing all of this takes less effort.
-# However, our group will grow to potentially 30+ people.
-# With groups that grow, we still need to maintain the essential functions of the group: ensuring adequate spece, ensuring there is time to play, and ensuring that everyone gets informed.
-# This will become increasingly difficult without organization.
+    Playing board games requires many resources and a way to allocate those resources as best as possible.
+    When there are many people you need to ensure that there's adequate space to play, there's time to play them, and that everyone has something to do.
+    Each person's needs and interests should to be assesed. 
+    Information needs to be communicated effectively
+    We need an efficient way to satisfy these functions.  
 
-and it takes more organization to man
+    With 4-6 people doing all of this takes less effort.
+    However, our group will grow to potentially 30+ people.
+    With groups that grow, we still need to maintain the essential functions of the group: ensuring adequate spece, ensuring there is time to play, and ensuring that everyone gets informed.
+    This will become increasingly difficult without organization.
+
+    
+    Rudolf Jovero and Caleb Picker have been developing TODA since Fall 2017 to address the every growing and change nature of the group.
 
 *** Why GitHub?
+
 The purpose of this GitHub repository is to host all the files required for establishing, maintaining, and tweaking the organization.
-GitHub is a collaborative tool that allows multiple users to interact with, share, discuss, and modify everything that is hosted in a repository.
+GitHub is a collaborative tool that allows multiple users to interact with, share, discuss, and modify files, important documents, and ideas. 
   
 Typically, GitHub is used to host complex computer code projects that have many moving parts and people. 
-GitHub is the best tool to host documentation for establishing, maintaining, and developing TODA.
 
-GitHub is the clearest way to track all moving parts, with all considerations from all users and best integrate them into our documentation.
-
-Rudy and I have been developing TODA since Fall 2017, and our group has grown since then.
-
-To accommodate diverse interests, values, and beliefs about this organization, we want to make everything transparent so that each diverse opinion--which only makes us better and more robust--is counted.
+GitHub is the clearest way to track all moving parts, with all considerations from all users and best integrate them into the documentation.
 
 ** Getting Started
 
