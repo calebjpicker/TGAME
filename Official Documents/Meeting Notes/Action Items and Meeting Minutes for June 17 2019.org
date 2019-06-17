@@ -42,11 +42,17 @@ none.
 ** IV. New Business
 
 -[] Discuss how to best present results to the group.
+
 -[] Discuss and finalize work on preamble.
+
 -[] Plan meeting space, date and time, and structure for Open Forum.  Message that to the group.
+
 -[] Review outstanding issues and triage as necessary.
+
 -[] Determine most important and urgent Projects.  Then create milestones for those projects.  Then create issues to reach those milestones.
+
 -[] Determine next meeting date and time, and agenda.
+
 -[] Assign or work on remaining sections of the constitution.
 
 ** V. Announcements 
