@@ -1,5 +1,8 @@
 #+TITLE: TODA
-* Tabletop Organization with Data, Design and Application Official Repository
+
+* Tabletop Organization with Design, Data, and Application (Official Repository)
+
+** Purpose 
 
 
 ** Why organize?
