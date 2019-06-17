@@ -1,27 +1,56 @@
 #+TITLE: TODA
-* Tabletop Organization for Data, Design and Application Official Repository
-** Purpose 
+* Tabletop Organization with Data, Design and Application Official Repository
 
-The purpose of this GitHub repository is to host all the files required for establishing, maintaining, and tweaking the organization known as
-Tabletop Organization for Data Anaysis and Application (TODAA). 
-GitHub is a collaborative tool that allows multiple users to interact with, share, discuss, and modify everything that is hosted in a repository.
+  Contact: unlvtoda@gmail.com
   
-Typically, GitHub is used to host complex computer code projects that have many moving parts and people. 
-GitHub is the best tool to host documentation for establishing, maintaining, and developing TODA.
+  **Origins of TODA
+  Since 2017, Rudolf Jovero and Caleb Picker began developing TODA to address the ever-growing and -changing nature of the group.
 
-GitHub is the clearest way to track all moving parts, with all considerations from all users and best integrate them into our documentation.
+** Why organize?
 
-Rudy and I have been developing TODA since Fall 2017, and our group has grown since then.
+  We are growing. Two years ago we started with only 4 people! 
+  Now we have more than 16 people and counting coming to board game nights.
+  We continue to attract new people, and we need a way to account for this continued growth.
+  When you were once new, every one of you changed the group's dynamic when you joined.
+  Going forward, each new person will continue to change the group dynamic.
+  We want to make sure that growth comes healthy.
+  This group should provide an improvement to each person's life--not an unnecessary obligation.
 
-To accommodate diverse interests, values, and beliefs about this organization, we want to make everything transparent so that each diverse opinion--which only makes us better and more robust--is counted.
+  Playing board games requires many resources and a way to allocate those resources as best as possible.
+  All meetings, whether it's at a business or a person's residence, needs to be planned to accommodate for adequate space to play, for time to play, and to ensure that it is comfortable for everyone who attends.
+  This requires, among others things, assessing each person's needs and interests and communicating information effectively, such as changes to locations and times.
+  We need an efficient way to satisfy these functions, so that there is less uncertainty and more enjoyment for everyone.
 
-** Getting Started
+  With 4-6 people, doing all of this takes less effort.
+  However, our group will grow to potentially 30 or more people.
+  With groups that grow, we still need to maintain the essential functions of the group: ensuring adequate space, ensuring there is time to play, and ensuring that everyone gets informed.
+  This will become increasingly difficult without organization.
+    
+** Why GitHub?
 
-GitHub has many features.
-One commonly used feature is called issues.
-Issues are the primary way that requests, concerns, enhancements and suggestions are handled.
+  The purpose of this GitHub repository is to host all the files required for establishing, maintaining, and working on the organization.
+  GitHub is a collaborative tool that allows multiple users to interact with, share, discuss, and modify files, important documents, and ideas. 
+  
+  Typically, GitHub is used to host complex computer code projects that have many moving parts and people. 
 
-To get started, just open an issue.  To open an issue:
+  GitHub is the most transparent way to track all moving parts, with all considerations from all users and to best integrate them into the documentation.
+
+** Getting Started on Providing Feedback (and Choosing Your Level of Involvement)
+
+You have two options to get started:
+
+*** Suggestion Box
+You can submit a response in the suggestion box. Anyone may use the suggestion box anonymously, so please provide your sincere feedback! 
+
+After submission, we will make an issue with the request so that the issue can be tracked publicly.
+
+[[https://forms.gle/vPe3dBW6jM1tnogB6][Suggestion Box]]
+
+*** Submitting Issues
+
+Issues are the primary way that requests, concerns, enhancements, and suggestions are handled.
+
+To get started, create an account and open an issue in this repository.  To open an issue:
 
 1. Click the '[[https://github.com/calebjpicker/TODA/issues][Issues]]' tab.  
 2. Click the green button labeled 'New Issue'.
@@ -30,24 +59,25 @@ To get started, just open an issue.  To open an issue:
 5. Click 'Submit new issue'.
 
 Either you or we will add additional labels to categorize the issue.
-Then anyone can comment and discuss the issue, and the entire discussion thread is visible.
+Then anyone can comment and discuss the issue, and the entire discussion thread is publicly visible.
 
 ** Doing More
 *** Forks and Pull Requests
-If you want to directly contribute to documentation, you can 'fork' this repository to your account.
-A fork refers making a copy of this repository to your account.
+If you want to directly contribute to documentation, you can 'fork' this repository.
+A fork refers to copying this repository to your account.
 You make a copy, then you are free to make any changes you want.
 Eventually you can make a 'pull request' so that those changes can be reviewed.
-Like issues anyone can comment and discuss the pull request and finalize it.
+Like issues, anyone can comment and discuss the pull request and finalize it.
+
 To fork the repository:
 
-1. on the repository page, click the upper right hand button that says 'fork' and github will copy it to your account.
-2. edit files as you'd like.
-3. make a pull request by clicking 'New pull request'.
-4. fill out the title and description like issues.
+1. On the repository page, click the button in the upper-right hand corner that says, 'fork'. GitHub will copy the repo to your account.
+2. Create or edit files as you'd like.
+3. Make a pull request by clicking 'New pull request'.
+4. Fill out the title and description, like issues.
 5. Click 'Create pull request'.
 
-the community will then review and discuss.
+The community will then review and discuss.
 
 *** Projects
 Projects are used as a way to organize and implement large functions of the organization. Tasks, issues, and pull requests are organized within projects.
