@@ -1,0 +1,42 @@
+#+TITLE: MEETING MINUTES FOR TABLETOP ORGANIZATION FOR DATA, DESIGN, AND ANALYSIS (TODA)
+#+SUBTITLE: University of Nevada, Las Vegas
+#+AUTHOR: Caleb J. Picker and Rudolf Jovero
+#+OPTIONS: author:nil date:nil toc:t
+
+[TODAY'S DATE]
+
+[SCHEDULED TIME START] to [SCHEDULED TIME END]
+
+** Officers
+
+-[Name], [Position 1]
+
+-[Name], [Position 2]
+
+-[Name], [Position 3]
+
+** Representatives
+
+** I. Roll Call - Members present
+
+Meeting Start Time:
+
+Motion to Start Meeting Called by:
+
+	Seconded by:
+
+Meeting End Time:
+
+	Motion to End Meeting Called by:
+
+	Seconded by:
+
+** II. Speakers
+
+** III. Old Business
+
+** IV. New Business
+
+** V. Announcements 
+
+** VI. Public Comment
