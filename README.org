@@ -1,5 +1,5 @@
 #+TITLE: TODA
-* Tabletop Organization for Data, Design and Application Official Repository
+* Tabletop Organization with Design, Data, and Application (Official Repository)
 ** Purpose 
 
 The purpose of this GitHub repository is to host all the files required for establishing, maintaining, and tweaking the organization known as
@@ -13,7 +13,7 @@ GitHub is the clearest way to track all moving parts, with all considerations fr
 
 Rudy and I have been developing TODA since Fall 2017, and our group has grown since then.
 
-To accommodate diverse interests, values, and beliefs about this organization, we want to make everything transparent so that each diverse opinion--which only makes us better and more robust--is counted.
+To accommodate various and ever-changing interests, values, and beliefs about this organization, we want to make everything transparent so that each opinion--which only makes us better and more robust--is counted.
 
 ** Getting Started
 
