@@ -1,5 +1,4 @@
 #+TITLE: TODA
-
 * Tabletop Organization with Data, Design and Application Official Repository
 
   Contact: unlvtoda@gmail.com
@@ -11,17 +10,13 @@
 
 ** Why organize?
 
-  We are growing. Two years ago we started with only 4 people! 
+  We want everyone who attends to feel welcomed.
+  Two years ago we started with only four people! 
   Now we have more than 16 people and counting coming to board game nights.
-  We continue to attract new people, and we need a way to account for this continued growth.
-  When you were once new, every one of you changed the group's dynamic when you joined.
-  Going forward, each new person will continue to change the group dynamic.
-  We want to make sure that growth comes healthy.
-  This group should provide an improvement to each person's life--not an unnecessary obligation.
-
-  Playing board games requires many resources and a way to allocate those resources as best as possible.
-  All meetings, whether it's at a business or a person's residence, needs to be planned to accommodate for adequate space to play, for time to play, and to ensure that it is comfortable for everyone who attends.
-  This requires, among others things, assessing each person's needs and interests and communicating information effectively, such as changes to locations and times.
+  And it is becoming increasingly necessary to ensure, at a minimum, basic functions of the group are met.
+  
+  These functions include accommodating for adequate space to play, for time to play, and for ensuring that it each person who attends feels welcome and has something to do.
+  This requires, among others things, assessing each person's needs and interests and communicating information effectively.
   We need an efficient way to satisfy these functions, so that there is less uncertainty and more enjoyment for everyone.
 
   With 4-6 people, doing all of this takes less effort.
@@ -52,7 +47,6 @@ After submission, we will make an issue with the request so that the issue can b
 *** Submitting Issues
 
 Issues are the primary way that requests, concerns, enhancements, and suggestions are handled.
-
 
 To get started, create an account and open an issue in this repository.  To open an issue:
 
