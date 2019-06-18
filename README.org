@@ -3,26 +3,16 @@
 
   Contact: unlvtoda@gmail.com
   
-
 ** Origins of TODA
   
   Since 2017, Rudolf Jovero and Caleb Picker began developing TODA to address the ever-growing and -changing nature of the group.
 
 ** Why organize?
 
-  We want everyone who attends to feel welcomed.
-  Two years ago we started with only four people! 
-  Now we have more than 16 people and counting coming to board game nights.
-  And it is becoming increasingly necessary to ensure, at a minimum, basic functions of the group are met.
-  
-  These functions include accommodating for adequate space to play, for time to play, and for ensuring that it each person who attends feels welcome and has something to do.
-  This requires, among others things, assessing each person's needs and interests and communicating information effectively.
-  We need an efficient way to satisfy these functions, so that there is less uncertainty and more enjoyment for everyone.
-
-  With 4-6 people, doing all of this takes less effort.
-  However, our group will grow to potentially 30 or more people.
-  With groups that grow, we still need to maintain the essential functions of the group: ensuring adequate space, ensuring there is time to play, and ensuring that everyone gets informed.
-  This will become increasingly difficult without organization.
+  Everyone who attends board games nights should feel welcomed.
+  Welcoming people requires finding space and time to play and ensuring that players have something to do. 
+  Meeting these basic functions allows players to interact with each other in a comfortable setting, whether that means interacting with new people, discussing new board game ideas, or just having a comfortable space to meet with old friends.
+  We need a structure and the resources to meet these functions on an ongoing basis, and as the group grows larger, we will still need to maintain these essential group functions. Establishing an organization provides a way to support each player's various interests.
     
 ** Why GitHub?
 
