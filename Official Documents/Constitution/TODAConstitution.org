@@ -9,9 +9,13 @@
 
 # weave metaphors and use only one. Let's try library metaphor
 ==
+
 Players are at the core of tabletop games. Within the confines of any given tabletop game, familiar and new players from disparate backgrounds welcome each other to collaborate, to socialize, to deceive, to compete, and so much more. Each new game played offers new social interactions and dynamics that forge close bonds between players. And with each new game, those bonds grow and even new players quickly become longstanding players. Tabletop games therefore offer the opportunity for players to develop social bonds, to explore new interests, and to discover new experiences--all of which improve their own and others' lives.  
+
 --
+
 Tabletop games welcome people, new and old, to become players in a new situation. Within the confines of any given tabletop game, players, new and old, from different backgrounds welcome each other to collaborate, to socialize, to compete, and to consider new ideas. Each new game played offers new social interactions and dynamics that forge close bonds between players, or motivating rivalries.
+
 ==
 
 Players regularly unite over tabletop games.  These interactions mean that players can improve themselves, can learn from and help others, can gain insights about their own and others' gameplay, can collaborate on projects, and can design and test board games.  Each new person adds a new dynamic and set of interests, but up until now, there has been no home to support and galvanize the various interests players have. Whether that is ensuring a space for old friends to meet, developing a new board game with others to publish, or enabling competition and improvement.
