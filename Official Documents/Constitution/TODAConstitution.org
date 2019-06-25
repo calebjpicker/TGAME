@@ -3,27 +3,11 @@
 #+AUTHOR: Rudolf Jovero and Caleb J. Picker
 #+OPTIONS: author:nil date:nil toc:t
 
-# I read through the RSO handbook, We should define the functions of the basic functions of President, Secratary, and especially the Treasurer. Also we need to define how we will handle financial matters here and not the bylaws.
+# I read through the RSO handbook, We should define the functions of the basic functions of President, Secretary, and especially the Treasurer. Also we need to define how we will handle financial matters here and not the bylaws.
 
 ** Preamble
 
-# weave metaphors and use only one. Let's try library metaphor
-==
-
-Players are at the core of tabletop games. Within the confines of any given tabletop game, familiar and new players from disparate backgrounds welcome each other to collaborate, to socialize, to deceive, to compete, and so much more. Each new game played offers new social interactions and dynamics that forge close bonds between players. And with each new game, those bonds grow and even new players quickly become longstanding players. Tabletop games therefore offer the opportunity for players to develop social bonds, to explore new interests, and to discover new experiences--all of which improve their own and others' lives.  
-
---
-
-Tabletop games welcome people. Players from different backgrounds cooperate, socialize, compete, and consider new ideas. With each new game, players forge and strengthen close bonds. And with each new game, these bonds turn new players into familiar faces and can spark improvement through rivalries. However, up until now, no home exists to support and engage players' interests. TODA aims to house players' various interests and provide them with the resources to enhance, discover, and create their own experiences.
-
-
-
-==
-# Players regularly unite over tabletop games.  These interactions mean that players can improve, learn, gain insights about  gameplay, collaborate, and design and test board games.  
-
-Whether that is ensuring a space for old friends to meet, developing a new board game with others to publish, or enabling competition and improvement.
-
-
+Tabletop games welcome people. Players from different backgrounds cooperate, socialize, compete, and consider new ideas. With each new game, players forge and strengthen close bonds. And with each new game, these bonds turn new players into familiar faces and can spark improvement through rivalries. However, up until now, no home exists to support and engage players' interests, whether that is to ensure a space for old friends to meet, to design new board games, or to improve themselves. TODA aims to house players' various interests and provide them with the resources to enhance, discover, and create their own experiences.  
 
 * Article I - Name of Organization
   
@@ -35,8 +19,9 @@ Whether that is ensuring a space for old friends to meet, developing a new board
   
 ** Interdisciplinary and Collaborative. 
 
-	Every perspective has value through different insights. Every insight generates new value through collaboration with other perspectives.
-	TODA welcomes new ways of thinking and collaboration with others.
+	Every perspective is a new frame of mind.  Each new frame of mind generates new value through collaboration with other perspectives.
+	# perspectives basically provide new insights, those insights are valuable with or without collaboration, but iwth collaboration they are even more valuable
+	TODA welcomes collaboration and new ways of thinking.
 
 ** Growth Mindset. 
 	
@@ -53,7 +38,7 @@ Whether that is ensuring a space for old friends to meet, developing a new board
 #fix pillar
 
 	Every person has strength to galvanize others and change their enviornment.
-	TODA welcomes people to collaborate with others to learn and polish the skills they need to become stronger, intelligent and compassionate.
+	TODA welcomes people to collaborate with others to learn and polish the skills they need to become stronger, more thoughtful, and more compassionate.
 	  
 * Article III - Authority
   
