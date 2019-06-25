@@ -1,0 +1,68 @@
+#+TITLE: Meeting Minutes with Tabletop Organization with Design, Data, and Application (TODA)
+#+SUBTITLE: University of Nevada, Las Vegas
+#+AUTHOR: Caleb J. Picker and Rudolf Jovero
+#+OPTIONS: author:nil date:nil toc:t
+
+June 24, 2019
+
+4:30 PM to 5:30 PM
+
+** Officers
+
+-[Name], [Position 1]
+
+-[Name], [Position 2]
+
+-[Name], [Position 3]
+
+** Representatives
+
+** I. Roll Call - Members present
+
+Caleb Picker
+Rudolf Jovero
+Marshall Krakauer
+
+Meeting Start Time: 8:10 PM
+
+Motion to Start Meeting Called by: Caleb
+
+	Seconded by: Marshall
+
+Meeting End Time:  10:29 PM
+
+	Motion to End Meeting Called by: Caleb
+
+	Seconded by:Rudy
+
+** II. Speakers
+
+none.
+
+** III. Old Business
+
+-[ ] None.
+
+** IV. New Business
+
+-[ ] Review outstanding issues and triage as necessary.
+	- We will table this for next meeting.
+	
+-[ ] Determine most important and urgent Projects.  Then create milestones for those projects.  Then create issues to reach those milestones.
+	- Table this for next meeting
+
+-[ ] Discuss and finalize work on preamble.
+	- we discussed the preamble and finalized.
+
+-[ ] Discuss and finalize work on pillars.
+	- we started discussion on pillars.
+
+- [ ] Determine what to talk about with Kevin.
+	- we will talk about this on wednesday.
+	
+-[ ] Determine next meeting date and time, and agenda.
+	- Wednesday, June 26, 2019 at 6:00 PM
+
+** V. Announcements 
+
+** VI. Public Comment
