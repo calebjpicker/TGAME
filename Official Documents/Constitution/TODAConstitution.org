@@ -69,13 +69,7 @@ Tabletop games welcome people. Players from different backgrounds cooperate, soc
 **** Members 
      
      The Bylaws shall define the membership requirements.
-     
-**** Membership Population
-# Check with the RSO documentation, this section was written to abide by a spring 2017 manual. has probably changed since
-
-     No less than 5 of TODA’s members shall consist of UNLV students, faculty, or staff. 
-     Non-UNLV membership slots will be considered as outlined in the TODA Bylaws. 
-    
+         
 *** Subsection II - Privileges and Responsibilities
     
 **** Privileges
@@ -95,63 +89,59 @@ Tabletop games welcome people. Players from different backgrounds cooperate, soc
       Expectations and Duties that TODA Members have toward other TODA members, TODA, community members, and the community.
       
 ***** Responsibilities 
-      
-      All TODA members and any person part of, related to, or in any way representing TODA have responsibilities toward TODA members, TODA, community members, and the community. 
+       
       TODA responsibilities are outlined in the TODA Bylaws.
       
 *** Subsection III - Code of Conduct
     
-    All members, non-members, or any person in any way representing TODA in any capacity must abide by the UNLV Student Code of Conduct and TODA's Code of Conduct.
+    TODA members must abide by the UNLV Student Code of Conduct and TODA's Code of Conduct.
     
 *** Subsection IV - Disciplinary Actions
     
-    All members, non-members, or any person in any way representing TODA will be recommended for and be subject to Disciplinary Action as outlined in the Bylaws.
+    Desciplinary Actions and Procedures are defined in the bylaws.
      
-** Section II - Officers
+** Section II - Agents
 
-Any officer of TODA functions does not constitute a leadership position, but a service position. Officers must provide honest and sincere evaluations of their topic of specialization, and a commitment to serve the organizational needs of TODA. Officership stands to manage the flow of TODA, and when done correctly, will feel as if everything naturally happened. 
+Agents of TODA function to facilitate and perform the tasks and duties required to run an RSO. Agents service the flow of TODA, and when done correctly, will feel as if everything naturally happened.
 
 *** Subsection I - General Qualifications for Positions 
     
-    The absolute minimum number of officers will equal 5. 
-    As the group grows, the minimum officers will grow proportionally. 
+    The absolute minimum number of agents will equal 3. 
+    As the group grows, the minimum agents will grow proportionally. 
     For membership up to the size of 100, this proportion will be at least 10%. 
     After 100, this proportion will equal 5% plus 5 positions. 
-    People in primary officer positions must have active TODA membership status and active UNLV student status. 
-    Candidates must also have at least 1 semester in TODA or have founded the club
-# Officers should be able to hold more than one office at different levels. Also the Vice president positions may combine to
-	Any UNLV student eligible to be an Officer of the TODA shall not be permitted to hold more than one primary Position in that organization at any one time.
+    People in primary agent positions must have active TODA membership status and active UNLV student status. 
 
 *** Subsection II - Positions
    
-**** Primary Officer Positions 
+**** Primary Agency Positions 
      
-     Primary officer positions have elected position status. 
-     Primary officer positions will have the chair registered with UNLV’s OED. 
-     All primary officer chairs must follow the election procedure elections to have the chair filled. 
-     The privileges and responsibilities of primary officers have description in the Bylaws.
+     Primary agency positions have elected position status. 
+     Primary agency positions will have the chair registered with UNLV’s OED. 
+     All primary agent chairs must follow the election procedure elections to have the chair filled. 
+     The privileges and responsibilities of primary agents have description in the Bylaws and Some have description in this constitution.
      # When we don't have 7+ people to act as officers we may need to combine roles
      Roles may combine, during times when the officer duties cannot get met with 10% of the population, as dictated by the bylaws.
      
-**** Secondary Officer Positions 
+**** Secondary Agency Positions 
      
-     Secondary officer positions have appointed or elected status, with the exception of the Past President position. 
-     Secondary officer positions will register with UNLV’s OED. 
-     A primary officer may appoint someone to a secondary officer chair, or the primary officers may open any secondary         officer chairs to the election process. 
-     The privileges and responsibilities of secondary officers have description in the Bylaws.
+     Secondary agency positions have appointed or elected status, with the exception of the Past External and Internal position. 
+     Secondary agent positions will register with UNLV’s OED. 
+     A primary agent may appoint someone to a secondary agency chair, or the primary agency may open any secondary officer chairs to the election process. 
+     The privileges and responsibilities of secondary agency have description in the Bylaws.
      # When we don't have 7+ people to act as officers we may need to combine roles
-     Roles may combine, during times when the officer duties cannot get met with 10% of the population, as dictated by the bylaws.
+     Roles may combine, during times when the agency duties cannot get met with 10% of the population, as dictated by the bylaws.
     
-**** Honorary Officer Positions 
+**** Honorary Agency Positions 
 
-    Honorary officer chairs have appointment status. Primary Officers may create honorary positions based on the need for leadership on projects.
-    Honorary officers may have non-student status as these officer position will not count as registered officer positions. 
-    An Honorary Officer does not necessarily gain the privileges of a Primary or Secondary Officer.
+    Honorary Agency chairs have appointment status. Primary Officers may create honorary positions based on the need for leadership on projects.
+    Honorary agency may have non-student status as these officer position will not count as registered agency positions. 
+    An Honorary position does not necessarily gain the privileges of a Primary or Secondary positions.
 
 **** Default Positions 
      
-     TODA shall have a President, Membership Vice President, Public Relations Vice President, Secretary, Treasurer,       Director of Marketing, and Sergeant at Arms as the seven primary officer positions. 
-     TODA shall also have a Past President if a new President gets elected, a Historian, a Publicist of Newsletters, and a Publicist of Peer-Review, as standing secondary officer positions. 
+     TODA shall have an External, Internal, Secretary, Treasurer, Marketing, and Sergeant at Arms as the six primary agent positions. 
+     TODA shall also have a Past External and Interal if a new External and Internal gets elected, a Historian, a Publicist of Newsletters, and a Publicist of Peer-Review, as standing secondary officer positions. 
      The roles of these officers have descriptions in the Bylaws. 
      The bylaws may dictate which positions may combine so one person may fulfill multiple positions.
      
@@ -159,7 +149,7 @@ Any officer of TODA functions does not constitute a leadership position, but a s
 **** Inaugural board
 
 # I added this because there isn't going to be enough eligible students to justify an election at the start of the semester.
-     TODA will have an initial board of appointed officers by the charter members of this constitution.
+     TODA will have an initial board of appointed of agents by the charter members of this constitution.
 
 **** Nominations 
      
@@ -202,26 +192,25 @@ Any officer of TODA functions does not constitute a leadership position, but a s
 
 **** Length of Terms
 	
-	All officers shall hold office for the term of one academic school year, where the school year begins in the Fall and ends in the following Spring.
-	Elections for new officer positions shall take place no later than one month before the end of each academic school year for as long as TODA exists.
-	All officers are eligible for re-election for the same position as long as they continue to meet the requirements of being elected.
+	All agents shall hold office for the term of one academic school year, where the school year begins in the Fall and ends in the following Spring.
+	Elections for new agents positions shall take place no later than one month before the end of each academic school year for as long as TODA exists.
+	All agents are eligible for re-election for the same position as long as they continue to meet the requirements of being elected.
 	
 **** Resignation
 	
-	Any Officer of TODA may resign at any time by delivering a written notice or email of such resignation to the President, or in the case of the resignation of the President, to the Vice President.
+	Any agent of TODA may resign at any time by delivering a written notice or email of such resignation to the External or Internal.	
+	When an agent position is vacated, the Executive Board may hold elections as soon as possible to fill the position by following TODA’s election procedures.
 		
-	When an Officer position is vacated, the Executive Board shall hold elections as soon as possible to fill the position by following TODA’s election procedures.
-		
-	If any Officer of TODA is absent from UNLV due to a leave of absence, voluntary health withdrawal, or studying abroad, the Executive Board shall hold elections to fill the position by following TODA’s election procedures.
+	If any agent of TODA is absent from UNLV due to a leave of absence, voluntary health withdrawal, or studying abroad, the Executive Board may hold elections to fill the position by following TODA’s election procedures.
 	
 **** Removal from Office
 	
-	Any Officer of TODA may be removed from such office by a two-thirds (2/3) affirmative vote of the Members. 
+	Any agent of TODA may be removed from such office by a two-thirds (2/3) affirmative vote of the Members. 
 	
    
 *** Subsection V - Powers Granted
 
-**** Responsibilities Officers
+**** Responsibilities
 # we need to decide between what gets defined in the bylaws and the constitution. also perhaps we should put this under authority.
 
 	 The Executive Board shall propose a program of events or publication to be sponsored by TODA in forthcoming Fall and Spring semesters. 
@@ -229,51 +218,44 @@ Any officer of TODA functions does not constitute a leadership position, but a s
    When appropriate, the Executive Committee shall appoint Members to serve as Honorary officers to oversee the 
 	 various tasks related to the program or publication and to solicit the involvement of other Members of TODA.
    
-**** President 
+**** External 
 	 
 	 The President shall call all meetings of TODA, regular or otherwise, and shall serve as the default chairperson of such meetings. 
-	 In addition, the President shall, with the advice of the Executive Committee, plan and coordinate the events to be sponsored by TODA in forthcoming terms; 
+	 In addition, the External shall, with the advice of the Internal, plan and coordinate the events to be sponsored by TODA in forthcoming terms;
+	 The External shall communicate and negotiate with outside businesses for resources.
    with the Treasurer, if applicable prepare and present an annual budget request to the appropriate funding source, and shall serve as a liaison with the relevant bodies.
+   	The External may perform the Internal's functions when the Internal is unavailable to perform their duties.
    Additional responsiblities will get outlined in the Bylaws.
      
-**** Vice Presidents
+**** Internal
 	 
-	 The Vice Presidents, in the absence of the President, or should the President prove unable or unwilling to perform the duties described above, shall assume the responsibilities of the President. 
-   In addition, the Vice President shall preside over all meetings of the Executive Committee 
-	 called and shall also perform other duties as the President may assign as needed. 
+	 The Internal guides and informs interal activities of resources and ensures those resources are provided for.
+	 In addition, the External shall, with the advice of the Internal, plan and coordinate the events to be sponsored by TODA in forthcoming terms;
+	 The Internal will welcome and introduce new members and guest speakers.
    Additional responsiblities will get outlined in the Bylaws.
 **** Secretary
 
 	 The Secretary shall be responsible for recording accurate minutes of any Meeting, regular or otherwise, of TODA or the Executive Committee. 
 	 The Secretary shall also record all votes of the Membership or Executive Committee. The Secretary shall be responsible for the writing and 
 	 distribution of a newsletter or other notice to the Membership informing them of any Meeting or other gathering of TODA, 
-# I think this should be the job of the Membership Vice President
-#   and furthermore shall at all times maintain an accurate and complete list of the Membership and all regular and non- # regular attendees or affiliates of TODA.
+	The Secretary shall at all times maintain an accurate and complete list of the Membership and all regular and non- # regular attendees or affiliates of TODA.
      
 **** Treasurer
 	 
 	 The Treasurer shall be responsible for maintaining accurate financial records of TODA and shall be allowed to request payment on behalf of TODA. 
-	 The Treasurer, with the President, shall prepare and present any budget requests to the appropriate funding source. 
+	 The Treasurer, with the External, shall prepare and present any budget requests to the appropriate funding source.
+	 The Treasurer will inform other agents of the financial resources and allocations.
    # *The University is not going to do our accounting*
    # The officers shall insure that all funds are properly kept within the University accounting system. Outside bank accounts are not permitted, unless otherwise voted upon by a quorum.  
    
    # This should be in a different section or article about Records
-   All financial records must be audited and approved by a quorum.  All financial records must be held in an online server with access granted to all executive officers at all times.
+   # All financial records must be audited and approved by a quorum.  All financial records must be held in an online server with access granted to all executive officers at all times.
 	 
 *****
 
 ** Section III - Organization
   
-*** Subsection I - Standing Committees 
-    
-    TODA shall have an executive, legislative, conduct, information, and marketing committee as standing committees. 
-    These and more standing committees hold their description in the Bylaws.
-    
-*** Subsection II - Select Committees 
-    
-    TODA's officer board shall have the authority to establish select committees to address temporary needs.
-    The officer board may solidify a select committee into a standing committee in a procedure outlined by the bylaws.
-    Further descriptions of these committees hold their description in the bylaws.
+TBD
 
 * Article V - Meetings
 
@@ -281,6 +263,15 @@ Any officer of TODA functions does not constitute a leadership position, but a s
 
 ** Section I - TODA General Meetings
    
+	The space of meetings shall have two divisions, a casual and focused gaming area.
+*** Casual Gaming Area
+	
+	The casual gaming area will provided an environment to welcome members and allow social activities. 
+
+*** Focused Gaming Area
+
+	The focused gaming area will provide an enviorment that conducts an uninterupted and focused gaming enviornment.
+	This focused gaming area will give members the power and comfort to enforce stronger rules of ettiquite for specific games, competitions and activities.
 	TODA meetings shall consist of designated spaces and times as described in the Bylaws.
     
 ** Section II - TODA Officer Meetings 
