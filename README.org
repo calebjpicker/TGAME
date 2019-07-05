@@ -1,5 +1,5 @@
-#+TITLE: TODA
-* Tabletop Organization with Data, Design and Application Official Repository
+#+TITLE: TGAME
+* Tabletop Gaming: Assorted and Malleable Experiences Official Repository
 
   Contact: unlvtoda@gmail.com
   
