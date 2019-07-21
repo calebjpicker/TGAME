@@ -49,8 +49,12 @@ In order for this group to run, we need someone who...
 *** 
 
 * Facilitator section of the consitution
-** Article I-III (Caleb)
+** Article preamble, II-III (Caleb)
 Revise, take kevin's notes into consideration, Pillar define preamble
+For the preamble, determine how the organization can support the proposed functions
+For the Article II pillars, determine how the pillars relate to or support the organization's function
+For Article III (authority), skim through relevant RSO documents to determine whether these documents give organization relevant authority and then revise accordingly
+
 ** Article IV, Section 2 (Rudy)
    Comply with RSO and UNLV
    Biome, Tasks to be completed, Which tasks should be grouped together so they are managed.
@@ -77,7 +81,22 @@ Revise, take kevin's notes into consideration, Pillar define preamble
 *** Appointments (Election Possibly)
 *** Inaugural Board
 
-** Article V (Caleb)    
-
-
+** Article V Meetings (Caleb)
+Section I, what kind of space/resource allocations do we want for a meeting in the long term?
+   presentations, discussion groups, lectures, board game design, playtest
+   discussion area
+   announcements 
+Section II are facilitation meetings
+   read through section II as it is currently (copied from a website)
+   agenda is available at least one week in advance
+   meeting times are determined a semester in advance (maybe not a full semester)
+      option for calling impromptu/urgent meetings
+   simplify this section (don't need to be a paragraph long), consider bullet points
+   keep in mind something that will guarantee that facilitator meetings will be done in a timely manner
+   add in someting about what chairperson does
+      chairperson guides the meeting through agenda
+     simplify subsection V and VI
+   Subsection VII suggestion box, it's place in meeting is symbolic and shows we are taking community suggestions into account before any and all other business
+   consider changing subheadings (e.g., remove subsection so that it aligns iwth rest of document)
 ** Article VI
+   we can work on this at a later date
