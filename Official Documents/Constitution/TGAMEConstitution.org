@@ -257,22 +257,26 @@ TBD
 
 * Article V - Meetings
 
-# We may need to move some of this to the bylaws
+This section contains information regarding General Meetigns and Facilitator Meetings.
 
-** Section I - TODA General Meetings
-   
-	The space of meetings shall have two divisions, a casual and focused gaming area.
-*** Casual Gaming Area
+** Section I - TGAME General Meetings
+
+General meetings shall consist of announcements, two types of gaming areas, and discussions, lectures, and presentations.
+
+*** Announcements
+
+	Announcements, if available, shall be made throughout the event.
+
+*** Gaming Area
 	
-	The casual gaming area will provided an environment to welcome members and allow social activities. 
+	The gaming area shall consist of casual and focused gaming areas.  Casual gaming areas include an environment to play tabletop games and allow for relaxed board game etiquette. Focused gaming areas include providing an environment to play tabletop games where more structured etiquette and rules ar enforced.  
+	Gaming area can also be used for playtesting, competitions, and other activities that involve playing board games
 
-*** Focused Gaming Area
+*** Discussions, Lectures, and Presentations
 
-	The focused gaming area will provide an enviorment that conducts an uninterupted and focused gaming enviornment.
-	This focused gaming area will give members the power and comfort to enforce stronger rules of ettiquite for specific games, competitions and activities.
-	TODA meetings shall consist of designated spaces and times as described in the Bylaws.
-    
-** Section II - TODA Officer Meetings 
+	TGAME shall provide resources, time, and space for board game related content, including board game design groups, discussions, lectures, and presentations.
+	
+** Section II - TGAME Facilitator Meetings 
   
 *** Subsection I - Chairperson
   
