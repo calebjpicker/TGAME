@@ -280,67 +280,49 @@ General meetings shall consist of announcements, two types of gaming areas, and 
   
 *** Subsection I - Chairperson
   
-    For all Officer meetings, the default chairperson shall be the President. 
-    In the event that the President cannot fulfill the duties of chairperson, another Officer will act as chairperson. 
-    The TODA Bylaws describe the procedure for deciding the Officer that will act as Chairperson.
+    For all TGAME Facilitator meetings, the default chairperson shall be the [EXTERNAL -- edit this]. 
+    In the event that the [EXTERNAL -- edit this] cannot fulfill the duties of chairperson, another Facilitator will act as chairperson, as outlined in the TGAME bylaws.  The Chairperson's duties are to prepare and distribute the agenda and guide the meeting.
     
 *** Subsection II - Standing Orders 
     
-    The TODA bylaws shall describe the standing orders for officer meetings. 
-    Meetings will follow standing orders, unless a point of order is called to suspend standing orders.
+    The TGAME bylaws shall describe the standing orders for officer meetings. 
    
 *** Subsection III - Agenda 
     
-    Prior to each meeting, the chairperson shall put items on the agenda and then give a finalized agenda to the Secretary. 
-    The Secretary shall post the finalized agenda two days prior to the meeting.
+    The Chairperson shall e-mail, text, or post (e.g., Facebook, website) the finalized agenda at least two days before each meeting.
     
 *** Subsection IV - Opening and Quorum
    
-    The meeting will not begin until the Chairperson declares a quorum. 
-    A quorum will require at least ⅗ of the registered Officers. 
-    If a quorum cannot have declaration within 30 minutes of the meeting’s designated starting time, 
-    the meeting shall get called again for a similar time and place the following week. 
-    If less than ⅗ of Officers attend the reconvened meeting, then no meeting can be called to order.
+    The meeting begins when the Chairperson declares a quorum, which requires at least 3/5 of Facilitators present. 
+    A quorum must be declared within 30 minutes of the meeting’s designated starting time, 
+    otherwise the meeting will recommence for a similar time and place the following week. 
     If a Chairperson has not taken the chair 15 minutes after the designated starting time, 
-    the next Officer in command that is also present at the meeting shall use the procedure for deciding who will act as chairperson, 
-    as outlined in the TODA Bylaws.  
-    The Chairperson will acknowledge those who formally notified they could not attend the meeting.
+    the next Facilitator will choose the chairperson, as outlined in the TGAME Bylaws.  
     
 *** Subsection V - Previous Minutes
     
    The Chairperson tables the minutes of the previous meeting making them open as a topic of discussion. 
-   At this point the Chairperson will ask the members to adopt the minutes. 
-   If the Officers do not agree that the draft minutes hold accurate, corrections may be suggested. 
-   The acting Secretary shall note the suggested corrections. 
-   The Chairperson shall ask the Officers to vote to adopt the minutes with the suggested corrections.
-   Once the minutes have become adopted the Chairperson shall sign every page of the minutes and hand them to the acting Secretary for filing.
-   This time does not hold appropriate to indulge in debates on decisions which were made at the previous meeting. 
+   At this point the Chairperson will ask the members to adopt the minutes, during which time, corrections may be suggested, noted,
+   and then voted upon to adopt.
+   Once adopted, the Chairperson shall sign and date every page of the minutes.
    Anyone who wishes to change a motion shall wait until the same subject arises in the general business of the current meeting or raise it in the part called "Any Other Business".
     
 *** Subsection VI - Business from Previous Minutes
     
-    Often the issues for Business arising from the Minutes of the Previous Meeting get listed in the agenda. 
-    Any reports, pieces of information or other matters of substance that got requested at the previous meeting get debated and a vote gets taken on the appropriate action to take.
+    Business from the previous meeting's minutes  are listed in the agenda. 
   
 *** Subsection VII - Suggestion Box 
     
     Any letters, facsimiles and the like, which have been received by the committee are discussed here. 
-    The Chairperson should summarize correspondence which cover similar issues, or express similar opinions and discuss them as a single issue.
     The Chairperson presents a piece of correspondence to the meeting by putting a motion that the meeting "receive the correspondence". 
-    This is an acknowledgment by the meeting that the correspondence as been formally received and that it may now be discussed and acted upon, if necessary.
-    If correspondence sent to the meeting is considered offensive, the meeting can vote on a motion, "not to receive" it. 
-    Alternatively, the meeting can decide that the correspondence should be "received and lie on the table". 
-    This means it will not really be dealt with. 
-    It is effectively in limbo until such time in the future that it is "taken from the table" and discussed.
+    It is during this time that the suggestions are addressed.
     
 *** Subsection VIII - Reports 
    
     Reports and submissions that have been written for the meeting or include information relevant to the work of the meeting are tabled and discussed. 
     A motion is required to be put that a report be received. 
-    This means that the report exists, as far as the meeting is concerned, and a discussion or debate may now take placed on the contents, interpretation and recommendations of the report. 
-    Motions are able to be put for or against the recommendations of the report or ask the author to consider further issues or reconsider issues on the basis of particular information.
-    A member of a meeting can even put forward a motion to change the wording of a report or submission.
-   
+    This means that the report exists, as far as the meeting is concerned, and a discussion or debate may now take place on the contents, interpretation and recommendations of the report. 
+    
 *** Subsection IX - General Business
     
     General business items are announced singly by the Chairperson and a discussion or debate follows each one. 
