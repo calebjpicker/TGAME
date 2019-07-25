@@ -98,7 +98,7 @@ Tabletop games welcome people. Players from different backgrounds cooperate, soc
     
     Desciplinary Actions and Procedures are defined in the bylaws.
      
-** Section II - Agents
+** Section II - Facilitation
 
 Agents of TODA function to facilitate and perform the tasks and duties required to run an RSO. Agents service the flow of TODA, and when done correctly, will feel as if everything naturally happened.
 
@@ -272,11 +272,11 @@ General meetings shall consist of announcements, two types of gaming areas, and 
 	The gaming area shall consist of casual and focused gaming areas.  Casual gaming areas include an environment to play tabletop games and allow for relaxed board game etiquette. Focused gaming areas include providing an environment to play tabletop games where more structured etiquette and rules ar enforced.  
 	Gaming area can also be used for playtesting, competitions, and other activities that involve playing board games
 
-*** Discussions, Lectures, and Presentations
+*** Other Activities
 
-	TGAME shall provide resources, time, and space for board game related content, including board game design groups, discussions, lectures, and presentations.
+	TGAME shall provide resources, time, and space for board game related content, including board game design groups, discussion, presentations, and exhibitions.
 	
-** Section II - TGAME Facilitator Meetings 
+** Section II - TGAME Facilitation Meetings 
   
 *** Subsection I - Chairperson
   
