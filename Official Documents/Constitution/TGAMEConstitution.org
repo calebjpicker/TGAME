@@ -1,0 +1,381 @@
+#+TITLE: Constitution of "Tabletop Gaming: Assorted and Malleable Experiences"
+#+SUBTITLE: University of Nevada, Las Vegas
+#+AUTHOR: Rudolf Jovero and Caleb J. Picker
+#+OPTIONS: author:nil date:nil toc:t
+
+# I read through the RSO handbook, We should define the functions of the basic functions of President, Secretary, and especially the Treasurer. Also we need to define how we will handle financial matters here and not the bylaws.
+
+** Preamble
+
+Tabletop games welcome people. Players from different backgrounds cooperate, socialize, compete, and consider new ideas. With each new game, players forge and strengthen close bonds. And with each new game, these bonds turn new players into familiar faces and can spark improvement through rivalries. However, up until now, no home exists to support and engage players' interests, whether that is to ensure a space for old friends to meet, to design new board games, or to improve themselves. TGAME aims to house players' various interests and provide them with the resources to enhance, create, and discover their own experiences.  
+
+* Article I - Name of Organization
+  
+  This organization shall have the name “Tabletop Gaming: Assorted and Malleable Experiences”, herein referred to as “TGAME”.
+  
+* Article II - Purpose
+  
+  TGAME is supported by the following philosophical pillars:
+  
+** Growth Mindset. 
+	
+	Knowledge and skills increase through passion and perseverance.
+	TGAME welcomes individuals to grow their knowldege. To grow their skill. To grow themselves.
+
+** Educate and Empower. 
+
+	Every person has strength to move others and equip them with skill, knowledge, and confidence.
+	TGAME welcomes people to teach, learn, and polish the skills they need to become stronger, more thoughtful, and more compassionate.
+
+
+** Interdisciplinary and Collaborative. 
+
+	Every perspective is a new frame of mind. Collaboration with others generates new perspectives.
+	TGAME welcomes new ways of thinking and collaboration.
+	
+** Engage and Adapt. 
+	
+	The community's needs grow and change, and the organization should accomodate them. 
+	TGAME welcomes input in order to understand and meet the community's needs.
+	  
+* Article III - Authority
+  
+** Section I - Registered Student Organization
+   
+   TODA holds recognition as a Registered Student Organization of the University of Nevada, Las Vegas (RSO) and adheres to the policies as set 
+   forth by the /UNLV Student Conduct Code/, /UNLV Student Engagement and Diversity Policies and Procedures/, and /UNLV Registered Student Organization 
+   Handbook/.
+   
+** Section II - Bylaws
+   
+   This organization shall establish Bylaws to govern administrative and procedural matters (such as time and location of meetings, etc.). 
+   Bylaws shall not conflict with this Constitution. 
+   Bylaws may get adopted, amended, or temporarily suspended by a majority vote present at a TODA meeting where a quorum exists (advance notice is not required).
+   
+* Article IV - Membership, Officers, and Organization
+  
+** Section I - Membership
+   
+*** Subsection I - Qualification
+    
+**** Anti-discrimination Clause
+     
+     All current students, faculty, and staff of the University of Nevada, Las Vegas (UNLV) as well as members of the community outside 
+	 UNLV may obtain membership status, regardless of age, creed, race, color, sex, sexual orientation, gender identity, political affiliation, 
+	 socioeconomic status, disability, national origin, or status as a veteran.
+     
+**** Members 
+     
+     The Bylaws shall define the membership requirements.
+         
+*** Subsection II - Privileges and Responsibilities
+    
+**** Privileges
+    
+***** Definition of Privilege 
+      
+      Benefits afforded by TODA to TODA active members.
+
+***** Privileges
+
+      All TODA members have privileges as outlined in the TODA Bylaws.
+      
+**** Responsibilities
+     
+***** Definition of Responsibility 
+      
+      Expectations and Duties that TODA Members have toward other TODA members, TODA, community members, and the community.
+      
+***** Responsibilities 
+       
+      TODA responsibilities are outlined in the TODA Bylaws.
+      
+*** Subsection III - Code of Conduct
+    
+    TODA members must abide by the UNLV Student Code of Conduct and TODA's Code of Conduct.
+    
+*** Subsection IV - Disciplinary Actions
+    
+    Desciplinary Actions and Procedures are defined in the bylaws.
+     
+** Section II - Facilitation
+
+Agents of TODA function to facilitate and perform the tasks and duties required to run an RSO. Agents service the flow of TODA, and when done correctly, will feel as if everything naturally happened.
+
+*** Subsection I - General Qualifications for Positions 
+    
+    The absolute minimum number of agents will equal 3. 
+    As the group grows, the minimum agents will grow proportionally. 
+    For membership up to the size of 100, this proportion will be at least 10%. 
+    After 100, this proportion will equal 5% plus 5 positions. 
+    People in primary agent positions must have active TODA membership status and active UNLV student status. 
+
+*** Subsection II - Positions
+   
+**** Primary Agency Positions 
+     
+     Primary agency positions have elected position status. 
+     Primary agency positions will have the chair registered with UNLV’s OED. 
+     All primary agent chairs must follow the election procedure elections to have the chair filled. 
+     The privileges and responsibilities of primary agents have description in the Bylaws and Some have description in this constitution.
+     # When we don't have 7+ people to act as officers we may need to combine roles
+     Roles may combine, during times when the officer duties cannot get met with 10% of the population, as dictated by the bylaws.
+     
+**** Secondary Agency Positions 
+     
+     Secondary agency positions have appointed or elected status, with the exception of the Past External and Internal position. 
+     Secondary agent positions will register with UNLV’s OED. 
+     A primary agent may appoint someone to a secondary agency chair, or the primary agency may open any secondary officer chairs to the election process. 
+     The privileges and responsibilities of secondary agency have description in the Bylaws.
+     # When we don't have 7+ people to act as officers we may need to combine roles
+     Roles may combine, during times when the agency duties cannot get met with 10% of the population, as dictated by the bylaws.
+    
+**** Honorary Agency Positions 
+
+    Honorary Agency chairs have appointment status. Primary Officers may create honorary positions based on the need for leadership on projects.
+    Honorary agency may have non-student status as these officer position will not count as registered agency positions. 
+    An Honorary position does not necessarily gain the privileges of a Primary or Secondary positions.
+
+**** Default Positions 
+     
+     TODA shall have an External, Internal, Secretary, Treasurer, Marketing, and Sergeant at Arms as the six primary agent positions. 
+     TODA shall also have a Past External and Interal if a new External and Internal gets elected, a Historian, a Publicist of Newsletters, and a Publicist of Peer-Review, as standing secondary officer positions. 
+     The roles of these officers have descriptions in the Bylaws. 
+     The bylaws may dictate which positions may combine so one person may fulfill multiple positions.
+     
+*** Subsection III - Elections and Appointments
+**** Inaugural board
+
+# I added this because there isn't going to be enough eligible students to justify an election at the start of the semester.
+     TODA will have an initial board of appointed of agents by the charter members of this constitution.
+
+**** Nominations 
+     
+***** Universal Unique ID 
+      
+      Universal Unique IDs are required to make any and all nominations.
+     
+***** Procedure 
+      
+      A member may get nominated to an elected chair if and only if another active member nominated this member and if another active member seconds.
+      
+**** Voting Method 
+     
+     Primary positions will get elected by a range vote election. 
+     Every active member will have a ballot with a numerical score range for each candidate and a “No Opinion” option. 
+     The average score of each candidate will get taken. 
+     When a ballot has “No Opinion” for a candidate, that ballot will not count in the averaging of that candidate’s score. 
+     The candidate with the highest average will win. 
+     No officer shall win an election, without more than 50% of the total range (e.g., total range of the anchor points of the scale 
+	 used in the voting election. For example, if the scale ranged from 1-10, then, to win an election, the nominee must get more 
+	 than 5.0 in average ratings), and no officer shall win an election without receiving a score from more than 11% of the active members.
+
+**** Election Day
+     
+     The exact election day will be decided by an established quorum of Officers. 
+     The election day will be decided by days given the most approvals.
+	   The meeting date for taking nominations and holding elections, as well as the nomination and election process, shall be well publicized to all members of TODA.
+    
+***** Quorum 
+      
+     Election day meetings must have quorum in order for ballots to get tallied. The Bylaws will specify the Quorum requirements.
+      
+**** New and Appointed Positions 
+
+	Additional Officer positions may be created and officers appointed by the Executive Board.
+#I'm not sure what you're saying here Caleb
+  The Executive Board may include these appointed officers as part of the Organization’s governing body if a description of their responsibilities and authority are included in the Organization’s Bylaws.
+     
+*** Subsection IV - Terms of Office
+
+**** Length of Terms
+	
+	All agents shall hold office for the term of one academic school year, where the school year begins in the Fall and ends in the following Spring.
+	Elections for new agents positions shall take place no later than one month before the end of each academic school year for as long as TODA exists.
+	All agents are eligible for re-election for the same position as long as they continue to meet the requirements of being elected.
+	
+**** Resignation
+	
+	Any agent of TODA may resign at any time by delivering a written notice or email of such resignation to the External or Internal.	
+	When an agent position is vacated, the Executive Board may hold elections as soon as possible to fill the position by following TODA’s election procedures.
+		
+	If any agent of TODA is absent from UNLV due to a leave of absence, voluntary health withdrawal, or studying abroad, the Executive Board may hold elections to fill the position by following TODA’s election procedures.
+	
+**** Removal from Office
+	
+	Any agent of TODA may be removed from such office by a two-thirds (2/3) affirmative vote of the Members. 
+	
+   
+*** Subsection V - Powers Granted
+
+**** Responsibilities
+# we need to decide between what gets defined in the bylaws and the constitution. also perhaps we should put this under authority.
+
+	 The Executive Board shall propose a program of events or publication to be sponsored by TODA in forthcoming Fall and Spring semesters. 
+	 Proposed programs shall be presented to the board and then established by a quorum. The Executive Board shall encourage Members to recommend programs or publication to be sponsored by TODA. 
+   When appropriate, the Executive Committee shall appoint Members to serve as Honorary officers to oversee the 
+	 various tasks related to the program or publication and to solicit the involvement of other Members of TODA.
+   
+**** External 
+	 
+	 The President shall call all meetings of TODA, regular or otherwise, and shall serve as the default chairperson of such meetings. 
+	 In addition, the External shall, with the advice of the Internal, plan and coordinate the events to be sponsored by TODA in forthcoming terms;
+	 The External shall communicate and negotiate with outside businesses for resources.
+   with the Treasurer, if applicable prepare and present an annual budget request to the appropriate funding source, and shall serve as a liaison with the relevant bodies.
+   	The External may perform the Internal's functions when the Internal is unavailable to perform their duties.
+   Additional responsiblities will get outlined in the Bylaws.
+     
+**** Internal
+	 
+	 The Internal guides and informs interal activities of resources and ensures those resources are provided for.
+	 In addition, the External shall, with the advice of the Internal, plan and coordinate the events to be sponsored by TODA in forthcoming terms;
+	 The Internal will welcome and introduce new members and guest speakers.
+   Additional responsiblities will get outlined in the Bylaws.
+**** Secretary
+
+	 The Secretary shall be responsible for recording accurate minutes of any Meeting, regular or otherwise, of TODA or the Executive Committee. 
+	 The Secretary shall also record all votes of the Membership or Executive Committee. The Secretary shall be responsible for the writing and 
+	 distribution of a newsletter or other notice to the Membership informing them of any Meeting or other gathering of TODA, 
+	The Secretary shall at all times maintain an accurate and complete list of the Membership and all regular and non- # regular attendees or affiliates of TODA.
+     
+**** Treasurer
+	 
+	 The Treasurer shall be responsible for maintaining accurate financial records of TODA and shall be allowed to request payment on behalf of TODA. 
+	 The Treasurer, with the External, shall prepare and present any budget requests to the appropriate funding source.
+	 The Treasurer will inform other agents of the financial resources and allocations.
+   # *The University is not going to do our accounting*
+   # The officers shall insure that all funds are properly kept within the University accounting system. Outside bank accounts are not permitted, unless otherwise voted upon by a quorum.  
+   
+   # This should be in a different section or article about Records
+   # All financial records must be audited and approved by a quorum.  All financial records must be held in an online server with access granted to all executive officers at all times.
+	 
+*****
+
+** Section III - Organization
+  
+TBD
+
+* Article V - Meetings
+
+This section contains information regarding General Meetigns and Facilitator Meetings.
+
+** Section I - TGAME General Meetings
+
+General meetings shall consist of announcements, two types of gaming areas, and discussions, lectures, and presentations.
+
+*** Announcements
+
+	Announcements, if available, shall be made throughout the event.
+
+*** Gaming Area
+	
+	The gaming area shall consist of casual and focused gaming areas.  Casual gaming areas include an environment to play tabletop games and allow for relaxed board game etiquette. Focused gaming areas include providing an environment to play tabletop games where more structured etiquette and rules ar enforced.  
+	Gaming area can also be used for playtesting, competitions, and other activities that involve playing board games
+
+*** Other Activities
+
+	TGAME shall provide resources, time, and space for board game related content, including board game design groups, discussion, presentations, and exhibitions.
+	
+** Section II - TGAME Facilitation Meetings 
+  
+*** Subsection I - Chairperson
+  
+    For all TGAME Facilitator meetings, the default chairperson shall be the [EXTERNAL -- edit this]. 
+    In the event that the [EXTERNAL -- edit this] cannot fulfill the duties of chairperson, another Facilitator will act as chairperson, as outlined in the TGAME bylaws.  The Chairperson's duties are to prepare and distribute the agenda and guide the meeting.
+    
+*** Subsection II - Standing Orders 
+    
+    The TGAME bylaws shall describe the standing orders for officer meetings. 
+   
+*** Subsection III - Agenda 
+    
+    The Chairperson shall e-mail, text, or post (e.g., Facebook, website) the finalized agenda at least two days before each meeting.
+    
+*** Subsection IV - Opening and Quorum
+   
+    The meeting begins when the Chairperson declares a quorum, which requires at least 3/5 of Facilitators present. 
+    A quorum must be declared within 30 minutes of the meeting’s designated starting time, 
+    otherwise the meeting will recommence for a similar time and place the following week. 
+    If a Chairperson has not taken the chair 15 minutes after the designated starting time, 
+    the next Facilitator will choose the chairperson, as outlined in the TGAME Bylaws.  
+    
+*** Subsection V - Previous Minutes
+    
+   The Chairperson tables the minutes of the previous meeting making them open as a topic of discussion. 
+   At this point the Chairperson will ask the members to adopt the minutes, during which time, corrections may be suggested, noted,
+   and then voted upon to adopt.
+   Once adopted, the Chairperson shall sign and date every page of the minutes.
+   Anyone who wishes to change a motion shall wait until the same subject arises in the general business of the current meeting or raise it in the part called "Any Other Business".
+    
+*** Subsection VI - Business from Previous Minutes
+    
+    Business from the previous meeting's minutes  are listed in the agenda. 
+  
+*** Subsection VII - Suggestion Box 
+    
+    Any letters, facsimiles and the like, which have been received by the committee are discussed here. 
+    The Chairperson presents a piece of correspondence to the meeting by putting a motion that the meeting "receive the correspondence". 
+    It is during this time that the suggestions are addressed.
+    
+*** Subsection VIII - Reports 
+   
+    Reports and submissions that have been written for the meeting or include information relevant to the work of the meeting are tabled and discussed. 
+    A motion is required to be put that a report be received. 
+    This means that the report exists, as far as the meeting is concerned, and a discussion or debate may now take place on the contents, interpretation and recommendations of the report. 
+    
+*** Subsection IX - General Business
+    
+    General business items are announced singly by the Chairperson and a discussion or debate follows each one. 
+    Motions that suggest methods of resolving issues are put forward and to a vote. 
+    Once the motions receive a simple majority, or a majority as defined in the standing orders, they become resolutions. 
+    Sometimes amendments to a motion are put forward. 
+    Only after the amendments are debated and voted upon can the revised substantive motion be brought to the vote. 
+    In the case of more formal meetings, general business consists of motions that are moved and seconded by participants of the meetings. 
+    In most meetings however, the need for a member to support a motion is ignored.
+   
+*** Subsection X - Other Business
+    
+    It is at this point in time, that the members are able to raise issues they feel are important. 
+    These include any items which were not listed on the agenda. 
+    No extremely important or complex issues should be raised unannounced during this part of the meeting. 
+    If an urgent matter must be dealt with by the meeting, 
+    the Chairperson should be informed before the meeting begins. 
+    A revised agenda can then be drawn up in the time that remains before the meeting is due to begin. 
+    If the Chairperson feels that any of the issues brought up for discussion are too complex or troublesome, 
+    he may call for another meeting to discuss the issue or 
+    alternatively, put it on the agenda for the next scheduled meeting.
+   
+*** Subsection XI - Adjournment
+    
+    Once all the issues have been put forward and discussed, 
+    the Chairperson advises members of the date and time of the next meeting. 
+    The meeting is now officially closed.
+    
+* Article VI - Ratification and Amendments
+  
+** Section I - Ratification
+   
+   This constitution shall have authority upon unanimous approval by all charter members of TODA present during ratification. 
+   To ratify the constitution, each of the charter members present during ratification shall sign a printed version of the completed constitution using wet ink.
+  
+** Section II - Process for Amendments
+
+*** Subsection I - Nomination
+    
+    Members shall use the suggestion box to suggest amendments. 
+    Suggested amendments shall be reviewed by Officers during evaluation of the contents of the suggestion box.
+    Officers can nominate amendments at the end of each officer meeting. 
+    If the nominated amendment gets support from at least 3/5 of all registered TODA Officers, the amendment will appear on the ballot during either a midterm or final Election Day meeting.
+   
+*** Subsection II - Amendment Procedures for Election Days 
+    
+    All voting active members must vote on amendments during Election Day. 
+    Election Ballots shall have the writing if it has passed the nomination process. 
+    If an amendment receives more than 50% of the present electorate’s approval during that election day, the amendment shall pass.
+    
+   
+  \pagebreak  
+* Signatures 
+  \pagebreak
+ 
+* Amendments 
