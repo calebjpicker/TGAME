@@ -7,7 +7,7 @@
 
 ** Preamble
 
-Tabletop games welcome people. Players from different backgrounds cooperate, socialize, compete, and consider new ideas. With each new game, players forge and strengthen close bonds. And with each new game, these bonds turn new players into familiar faces and can spark improvement through rivalries. However, up until now, no home exists to support and engage players' interests, whether that is to ensure a space for old friends to meet, to design new board games, or to improve themselves. TGAME aims to house players' various interests and provide them with the resources to enhance, create, and discover their own experiences.  
+Tabletop games welcome people. Players from different backgrounds cooperate, socialize, compete, and consider new ideas. With each new game, players forge and strengthen close bonds. And with each new game, these bonds turn new players into familiar faces and can spark improvement through rivalries. However, up until now, no home exists to support and engage players' interests, whether that is to ensure a space for old friends to meet, to design new board games, or to improve themselves. TGAME aims to house players' various interests and provide them with the resources to enhance, create, and discover their own experiences.  To that end, TGAME will gather and secure resources to support its members' and society's changing needs and experiences. 
 
 * Article I - Name of Organization
   
@@ -20,23 +20,27 @@ Tabletop games welcome people. Players from different backgrounds cooperate, soc
 ** Growth Mindset. 
 	
 	Knowledge and skills increase through passion and perseverance.
-	TGAME welcomes individuals to grow their knowldege. To grow their skill. To grow themselves.
+	TGAME welcomes individuals to grow their knowledge, their skill, and themselves.  TGAME supports this through
+	open invitations to and by providing opportunities to learn, create, and discover.
 
 ** Educate and Empower. 
 
 	Every person has strength to move others and equip them with skill, knowledge, and confidence.
-	TGAME welcomes people to teach, learn, and polish the skills they need to become stronger, more thoughtful, and more compassionate.
-
+	TGAME welcomes people to teach and polish the skills they need to become stronger, more thoughtful, and more compassionate.
+	TGAME supports this through compassion-based codes of conduct that foster compassion, and by providing platforms
+	to disseminate new knowledge.
 
 ** Interdisciplinary and Collaborative. 
 
 	Every perspective is a new frame of mind. Collaboration with others generates new perspectives.
-	TGAME welcomes new ways of thinking and collaboration.
+	TGAME welcomes new ways of thinking and collaboration.  TGAME supports indisciplinary and collaborative environments
+	by welcoming people from all different background with different levels of expertise in different disciplines
+	and then by providing opportunities for collaboration on projects and interests.
 	
 ** Engage and Adapt. 
 	
 	The community's needs grow and change, and the organization should accomodate them. 
-	TGAME welcomes input in order to understand and meet the community's needs.
+	TGAME welcomes input in order to understand and meet the community's needs.  TGAME supports this by periodically administering survey's to understand the changing needs of its members.
 	  
 * Article III - Authority
   
@@ -50,7 +54,7 @@ Tabletop games welcome people. Players from different backgrounds cooperate, soc
    
    This organization shall establish Bylaws to govern administrative and procedural matters (such as time and location of meetings, etc.). 
    Bylaws shall not conflict with this Constitution. 
-   Bylaws may get adopted, amended, or temporarily suspended by a majority vote present at a TODA meeting where a quorum exists (advance notice is not required).
+   Bylaws may get adopted, amended, or temporarily suspended by a [majority] vote present at a TODA Facilitator meeting where a quorum exists (advance notice is not required).
    
 * Article IV - Membership, Officers, and Organization
   
@@ -265,7 +269,7 @@ General meetings shall consist of announcements, two types of gaming areas, and 
 
 *** Announcements
 
-	Announcements, if available, shall be made throughout the event.
+	Announcements, if available, shall be made during the event.
 
 *** Gaming Area
 	
@@ -274,24 +278,33 @@ General meetings shall consist of announcements, two types of gaming areas, and 
 
 *** Other Activities
 
-	TGAME shall provide resources, time, and space for board game related content, including board game design groups, discussion, presentations, and exhibitions.
+	TGAME shall provide resources, time, and space for other board game related content, including board game design groups, discussion, presentations, and exhibitions.
 	
 ** Section II - TGAME Facilitation Meetings 
   
-*** Subsection I - Chairperson
-  
-    For all TGAME Facilitator meetings, the default chairperson shall be the [EXTERNAL -- edit this]. 
-    In the event that the [EXTERNAL -- edit this] cannot fulfill the duties of chairperson, another Facilitator will act as chairperson, as outlined in the TGAME bylaws.  The Chairperson's duties are to prepare and distribute the agenda and guide the meeting.
-    
-*** Subsection II - Standing Orders 
+*** Subsection I - Before the Meeting 
+
+**** Standing Orders 
     
     The TGAME bylaws shall describe the standing orders for officer meetings. 
-   
-*** Subsection III - Agenda 
+
+**** Chairperson
+  
+    The Chairperson's duties are to prepare and distribute the agenda, guide the TGAME Facilitation meeting, and shall have authority to enforce the standing orders.
+    For all TGAME Facilitator meetings, the default chairperson shall be the [EXTERNAL -- edit this]. 
+    In the event that the [EXTERNAL -- edit this] cannot fulfill the duties of chairperson, another Facilitator will act as chairperson, as outlined in the TGAME bylaws.  
+
+**** [Secretary]
+
+	The Secretary should take notes during the meeting for record-keeping purposes.
+    
+**** Agenda 
     
     The Chairperson shall e-mail, text, or post (e.g., Facebook, website) the finalized agenda at least two days before each meeting.
     
-*** Subsection IV - Opening and Quorum
+*** Subsection II - During the Meeting
+
+Opening and Quorum
    
     The meeting begins when the Chairperson declares a quorum, which requires at least 3/5 of Facilitators present. 
     A quorum must be declared within 30 minutes of the meeting’s designated starting time, 
@@ -299,63 +312,56 @@ General meetings shall consist of announcements, two types of gaming areas, and 
     If a Chairperson has not taken the chair 15 minutes after the designated starting time, 
     the next Facilitator will choose the chairperson, as outlined in the TGAME Bylaws.  
     
-*** Subsection V - Previous Minutes
+**** Previous Minutes
     
    The Chairperson tables the minutes of the previous meeting making them open as a topic of discussion. 
    At this point the Chairperson will ask the members to adopt the minutes, during which time, corrections may be suggested, noted,
    and then voted upon to adopt.
-   Once adopted, the Chairperson shall sign and date every page of the minutes.
    Anyone who wishes to change a motion shall wait until the same subject arises in the general business of the current meeting or raise it in the part called "Any Other Business".
     
-*** Subsection VI - Business from Previous Minutes
+**** Suggestion Box 
     
-    Business from the previous meeting's minutes  are listed in the agenda. 
-  
-*** Subsection VII - Suggestion Box 
+    Any messages, e-mails, and the like, which have been received by TGAME are discussed here. 
+    The Chairperson presents a piece of correspondence to the meeting by putting a motion that the meeting "receive the correspondence".
     
-    Any letters, facsimiles and the like, which have been received by the committee are discussed here. 
-    The Chairperson presents a piece of correspondence to the meeting by putting a motion that the meeting "receive the correspondence". 
-    It is during this time that the suggestions are addressed.
-    
-*** Subsection VIII - Reports 
+**** Facilitator Reports 
    
     Reports and submissions that have been written for the meeting or include information relevant to the work of the meeting are tabled and discussed. 
     A motion is required to be put that a report be received. 
-    This means that the report exists, as far as the meeting is concerned, and a discussion or debate may now take place on the contents, interpretation and recommendations of the report. 
+    It is during this time that the report be discussed or debated, regarding contents, interpretation, and recommendations of the report. 
     
-*** Subsection IX - General Business
+**** General Business
     
-    General business items are announced singly by the Chairperson and a discussion or debate follows each one. 
+    General business items are announced singly by the Chairperson, and a discussion follows each one. 
     Motions that suggest methods of resolving issues are put forward and to a vote. 
-    Once the motions receive a simple majority, or a majority as defined in the standing orders, they become resolutions. 
-    Sometimes amendments to a motion are put forward. 
-    Only after the amendments are debated and voted upon can the revised substantive motion be brought to the vote. 
-    In the case of more formal meetings, general business consists of motions that are moved and seconded by participants of the meetings. 
-    In most meetings however, the need for a member to support a motion is ignored.
-   
-*** Subsection X - Other Business
+    Once the motions receive a majority, as outlined in the TGAME Bylaws, they become resolutions. 
+       
+**** Other Business
     
-    It is at this point in time, that the members are able to raise issues they feel are important. 
+    Members may now raise issues. 
     These include any items which were not listed on the agenda. 
-    No extremely important or complex issues should be raised unannounced during this part of the meeting. 
+    Extremely important or complex issues should not be raised unannounced during this part of the meeting. 
     If an urgent matter must be dealt with by the meeting, 
     the Chairperson should be informed before the meeting begins. 
-    A revised agenda can then be drawn up in the time that remains before the meeting is due to begin. 
-    If the Chairperson feels that any of the issues brought up for discussion are too complex or troublesome, 
-    he may call for another meeting to discuss the issue or 
-    alternatively, put it on the agenda for the next scheduled meeting.
-   
-*** Subsection XI - Adjournment
+       
+**** Adjournment
     
     Once all the issues have been put forward and discussed, 
     the Chairperson advises members of the date and time of the next meeting. 
-    The meeting is now officially closed.
+    A motion is put forth to adjourn the meeting.
+    When seconded, the meeting is now officially closed.
+    
+ *** Subsection III - After the Meeting
+ 
+**** Meeting Minutes
+ 
+	The secretary shall send a typed copy of the meeting minutes to all active members as well as post a public copy online. 
     
 * Article VI - Ratification and Amendments
   
 ** Section I - Ratification
    
-   This constitution shall have authority upon unanimous approval by all charter members of TODA present during ratification. 
+   This constitution shall have authority upon unanimous approval by all charter members of TGAME present during ratification. 
    To ratify the constitution, each of the charter members present during ratification shall sign a printed version of the completed constitution using wet ink.
   
 ** Section II - Process for Amendments
